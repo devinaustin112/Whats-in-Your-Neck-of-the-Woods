@@ -1,0 +1,1 @@
+Our application connects locations of interest to 14 years of aggregated crime statistics in Virginia, allowing users to answer the question: "How safe is my neck of the woods?".

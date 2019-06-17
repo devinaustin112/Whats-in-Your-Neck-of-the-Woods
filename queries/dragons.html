@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+
+<h3>Group name</h3>
+
+Dragons
+
+<h3>Project vision</h3>
+
+Looking at local crime data, which 10 Virginia colleges have the lowest total amount of crime for the given year?
+
+<h3>Initial results</h3>
+ 
+<table border="1" cellpadding="3">
+    <tr>
+        <td colspan="3" bgcolor="lightyellow">
+<pre>
+    SELECT college_name, crime_total
+    FROM topten_colleges(2014)
+    ORDER BY college_name, crime_total ASC
+</pre>
+        </td>
+    </tr>
+    <tr>
+        <th>College Name</th>
+        <th>Total Crimes</th>
+        <td rowspan="12">
+            <div id="piechart" style="width: 500px; height: 300px;"></div>
+        </td>
+    </tr>
+    <tr>
+        <td>James Madison University</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Longwood University</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>Virginia Tech</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>University of Virginia</td>
+        <td>232</td>
+    </tr>
+    <tr>
+        <td>Radford</td>
+        <td>234</td>
+    </tr>
+    <tr>
+        <td>Christopher Newport University</td>
+        <td>305</td>
+    </tr>
+    <tr>
+        <td>Longwood University</td>
+        <td>390</td>
+    </tr>
+    <tr>
+        <td>Old Dominion University</td>
+        <td>400</td>
+    </tr>
+    <tr>
+        <td>Roanoke College</td>
+        <td>467</td>
+    </tr>
+    <tr>
+        <td>Randolph College</td>
+        <td>479</td>
+    </tr>
+</table>
+
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart() {
+
+    var data = google.visualization.arrayToDataTable([
+      ["School Name", "Dec 1st Count"],
+      ["James Madison University", 0],
+      ["Longwood University", 105],
+      ["Virginia Tech", 130],
+      ["University of Virginia", 232],
+      ["Radford", 234],
+      ["Christopher Newport University", 305],
+      ["Longwood University", 390],
+      ["Old Dominion University", 400],
+      ["Roanoke College", 467],
+      ["Randoplh College", 479],
+    ]);
+
+    var options = {
+      chartArea: {width:'90%', height:'90%'},
+    };
+
+    var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+    chart.draw(data, options);
+  }
+</script>
+
+</body>
+</html>

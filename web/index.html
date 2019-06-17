@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html>
+<title>Home</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+<link rel="icon" href="tree.png">
+<body bgcolor = "Gainsboro ">
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="index.html" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">What's In My Neck of the Woods?</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="queryPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Statistics</a>
+      <!--<a href="about.html" class="w3-bar-item w3-button">Project</a> -->
+      <!--<a href="#contact" class="w3-bar-item w3-button">Contact</a> -->
+    </div><!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="insertPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Insert a Location</a>
+      <!--<a href="about.html" class="w3-bar-item w3-button">Project</a> -->
+      <!--<a href="#contact" class="w3-bar-item w3-button">Contact</a> -->
+    </div>
+    <div class="w3-right w3-hide-small">
+      <a href="advQueryPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Advanced Search</a>
+      <!--<a href="about.html" class="w3-bar-item w3-button">Project</a> -->
+      <!--<a href="#contact" class="w3-bar-item w3-button">Contact</a> -->
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px; margin-top: 60px;" id="home">
+  <img class="w3-image" src="Va_Map.png" alt="Virginia" width="1500" height="600" >
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge" style="font-family: Georgia, serif;"><span class="w3-padding w3-black w3-opacity-min"><b>Virginia Crime Data</b></span> <span class="w3-hide-small w3-text-light-grey"> </span></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" style="font-family: Georgia, serif;">Project Vision</h3>
+    <p style="font-family: Georgia, serif;">
+        Hello, world! We are a team of five undergraduate Computer Science students from James Madison University who have collaborated
+        to bring you this web site for crime data for a majority of counties in Virginia. This project was conceived and executed from 
+        August 2018 - May 2019 as part of the course Database Design and Applications (CS 474). Our data comes straight from the counties'
+        police departments and dates between 2000-2014. Over the course of developing this project, we have expanded our knowledge of 
+        Database Management System (DBMS) development and have used tools such as Git, NetBeans IDE, HTML/CSS, PHP, and Python. 
+    </br>
+        Our vision for this project is to provide information to allow users to determine the relative safety of counties, cities, and 
+        also locations of interest such as universities, parks, and local school systems. We hope that by providing this information, users
+        will be able to make educated decisions about where to travel or live permanently. In addition to personal informative purposes, 
+        our project also serves as an access point to aggregations of crime data in Virginia for research purposes. We found in our 
+        preliminary research that many sets of crime data in Virginia are available but dispersed among many sources. We hope that by
+        compiling and analyzing those sets that future research in this area can be made simpler.
+    </p>
+  </div>
+  
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16" style="font-family: Georgia, serif;">Contact</h3>
+    <p style="font-family: Georgia, serif;">Get in touch if you have questions!</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit" style="font-family: Georgia, serif;">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+
+<!-- End page content -->
+<div class ="container" style="text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; ">
+      <button type="button" class="w3-button w3-black w3-section" style="font-family: Georgia, serif; width: 33%;">
+         <a href="advQueryPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Advanced Search</a>
+      </button>
+            <button type="button" class="w3-button w3-black w3-section" style="font-family: Georgia, serif; width: 33%;">
+         <a href="insertPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Insert a Location</a>
+      </button>
+            
+            <button type="button" class="w3-button w3-black w3-section" style="font-family: Georgia, serif; width: 33%;">
+         <a href="insertPage.php" class="w3-bar-item w3-button" style="font-family: Georgia, serif;">Statistics</a>
+      </button>
+  </div>
+</div>
+
+</body>
+</html>
+

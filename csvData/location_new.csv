@@ -1,0 +1,1757 @@
+location_id,location_type,location_name,lat,long
+1,college,Columbia College - Centreville Campus,38.8379176402538,-77.4343680255215
+2,college,South University - Richmond Campus,37.6470897123437,-77.5998885239418
+3,college,Virginia University of Lynchburg,37.3951917118665,-79.1514773227152
+4,college,Randolph College,37.4372707536034,-79.171929141923
+5,college,Stratford University - Alexandria Campus,38.8023079820338,-77.0829535461592
+6,college,Jefferson College of Health Science,37.2652058640014,-79.9409416516817
+7,college,Appalachian School of Law,37.2779310553942,-82.0965430633484
+8,college,Piedmont Virginia Community College,38.0065634328493,-78.4842216124107
+9,college,Paul D. Camp Community College - Hobbs Suffolk Campus,36.7254065536567,-76.6553972317992
+10,college,Christendom College,38.9519359646907,-78.1461028101078
+11,college,Southside Virginia Community College - Christanna Campus,36.8391132842916,-77.9179973254433
+12,college,Northern Virginia Community College - Annandale Campus,38.8344220600627,-77.2364536473385
+13,college,Southside Virginia Community College - Southside Virginia Education Center,36.7366454338353,-77.5149585738259
+14,college,Centura Colege - Norfolk Campus,36.90754306459,-76.2323554952227
+15,college,Central Michigan University - Fort Belvior Center,38.6966936315397,-77.1383922295022
+16,college,Florida Institute of Technology - Fort Lee Graduate,37.2235235752834,-77.3448868086293
+17,college,Hollins University,37.3555489002582,-79.940136433302
+18,college,Fortis College - Norfolk Campus,36.8469732189562,-76.1901734939708
+19,college,Patrick Henry Community College,36.7382256193798,-79.8697109431733
+20,college,Emory and Henry College,36.7725091337502,-81.831835302021
+21,college,Art Institute of Washington,38.8957613605225,-77.0726925541994
+22,college,Virginia Tech - Southwest Virginia Center,36.7575043608534,-82.0904757350199
+23,college,Chester Career College,37.3489047639486,-77.3741863219199
+24,college,Tidewater Tech,36.872770707545,-76.2200774665481
+25,college,Virginia Theological Seminary,38.8202862930732,-77.0919436205196
+26,college,Marymount University,38.9061192186138,-77.1294227436298
+27,college,Hampton University,37.0207949162072,-76.3402916465146
+28,college,Strayer University - Arlington,38.891193399032,-77.0853925458174
+29,college,Florida Institute of Technology - Hampton Roads,37.1544985111705,-76.5742465973899
+30,college,ECPI College of Technology - Newport News Campus,37.0910028064424,-76.4622105477176
+31,college,Bluefield State College,37.2653913567059,-81.2433305843551
+32,college,Virginia Tech - Northern Virginia Center,38.8966054449235,-77.1892645067616
+33,college,Fortis College - Richmond Campus,37.5810602891201,-77.4879917023589
+34,college,Park University - Fort Myer,38.875688261081,-77.0820074153491
+35,college,Lord Fairfax Community College - Middletown Campus,39.0356951447675,-78.2675636576525
+36,college,George Washington University Hampton Roads Center,37.1043535017776,-76.479605774611
+37,college,Danville Community College,36.5652229930093,-79.4086433714997
+38,college,Johns Hopkins University - Whiting School of Engineering,38.8517870553503,-77.0512221451724
+39,college,Aviation Institute of Maintenance - Chesapeake Campus,36.7783903514883,-76.2687079189641
+40,college,Lord Fairfax Community College - Fauquier Campus,38.6812643617596,-77.7860817094505
+41,college,ECPI College of Technology - Innsbrook Campus,37.6535662477317,-77.5792370119414
+42,college,Old Dominion University,36.888389815206,-76.3046796393831
+43,college,Advanced Technology Institute - Miller Store Campus,36.8953442110705,-76.1914585267982
+44,college,Northeast State Community College,36.4841284954292,-82.409941245027
+45,college,DeVry University - Chesapeake Campus,36.769839068616,-76.2351738327642
+46,college,East Tennessee State University,36.3299954311434,-82.3776348755461
+47,college,Bon Secours Memorial College of Nursing,37.6467683432938,-77.433100748794
+48,college,Paul D. Camp Community College - Franklin Campus,36.6710485371575,-76.9369838028177
+49,college,Lincoln Memorial University,36.5793252622812,-83.6599732637542
+50,college,University of Maryland University College - Fort Belvoir,38.6974897731718,-77.1388327013338
+51,college,Virginia Tech Carilion School of Medicine,37.2573835663786,-79.9423223613751
+52,college,ECPI College of Technology - Richmond Southside Campus,37.5008297463154,-77.5813092591136
+53,college,University of Lynchburg,37.398535761766,-79.1812074551154
+54,college,George Mason University - Prince William Campus,38.7560969176152,-77.5221188643943
+55,college,Strayer University - Alexandria Campus,38.8011201602571,-77.0741123199463
+56,college,ECPI College of Technology - Northern Virginia Campus,38.8049305438008,-77.4996658044478
+57,college,Blue Ridge Community College,38.2788013292085,-78.9375985335622
+58,college,Old Dominion University - Virginia Beach Higher Education Center,36.7810524576943,-76.095398219445
+59,college,J. Sargeant Reynolds Community College - Parham Road Campus,37.6375166708369,-77.4731671277203
+60,college,National College - Princeton Campus,37.3628267329826,-81.0374728236279
+61,college,Tidewater Community College - Norfolk Campus,36.8501067649978,-76.2899830288584
+62,college,University of Virginia,38.03471848625,-78.5093601984756
+63,college,Mountain Empire Community College,36.8548608868432,-82.7584356759982
+64,college,Southern Virginia Higher Education Center,36.6954821637655,-78.9020262759837
+65,college,Lord Fairfax Community College - Luray-Page County Center,38.6694595503272,-78.4620846130188
+66,college,University of Phoenix - Arlington Learning Center,38.8572774635731,-77.0515037948618
+67,college,Centura College - Chesapeake Campus,36.766023563119,-76.2292141190135
+68,college,Centura College - Virginia Beach Campus,36.837986088248,-76.0629632758941
+69,college,ECPI College of Technology - Richmond West End Campus,37.6093430468512,-77.5260446710692
+70,college,Northeast State at Kingsport,36.5459331625199,-82.5632873111863
+71,college,Stratford University - Neport News Campus,37.0852570075048,-76.4585087512302
+72,college,Rappahannock Community College - Kilmarnock Center,37.7193000969616,-76.3861114608495
+73,college,Averett University,36.5773266132447,-79.4131360034407
+74,college,"Virginia Tech - Hampton Roads Center, Newport News",37.0831350436781,-76.4794900689075
+75,college,ECPI College of Technology - Virginia Beach Campus,36.8426394733598,-76.1788530972369
+76,college,New River Community College,37.1053118418456,-80.6959935765606
+77,college,University of Management and Technology,38.8969444954042,-77.0709940268467
+78,college,Regent University,36.8025893481568,-76.1940046541474
+79,college,Norfolk State University,36.8493825391082,-76.2626758441207
+80,college,South University - Virginia Beach Campus,36.8336053166205,-76.1243543526166
+81,college,Wytheville Community College,36.9568602164849,-81.0703542846722
+82,college,Southeast Kentucky Community and Technical College - Middlesboro Campus,36.6124795941673,-83.7285013538994
+83,college,Southwest Virginia Higher Education Center,36.696723529009,-82.0006449558029
+84,college,Washington Baptist University ,38.8316690669207,-77.1864212023434
+85,college,database,37.3587850471939,-79.1846313990922
+86,college,Virginia Polytechnic Institute and State University,37.2290426109226,-80.4235204877614
+87,college,John Tyler Community College - Chester Campus,37.345789501786,-77.4076292857125
+88,college,Tidewater Community College - Virginia Beach Campus,36.7865783406156,-76.1014845165991
+89,college,Tidewater Community College - Portsmouth Campus,36.9039251613516,-76.4357070075112
+90,college,Virginia Western Community College,37.2452802371258,-79.9721902477291
+91,college,George Mason University - Loudoun Campus,39.0249583313397,-77.3896939171101
+92,college,Paul D. Camp Community College at Smithfield,36.9833496260945,-76.6381359230535
+93,college,National College - Harrisonburg Campus,38.4347411876631,-78.8489029436916
+94,college,Thomas Nelson Community College - Hampton Campus,37.0642195229123,-76.4189748846213
+95,college,Virginia State University,37.2364979468021,-77.4198596722359
+96,college,Sentara College of Health Sciences,36.7768681084457,-76.2427865346725
+97,college,Germanna Community College - Daniel Technology Center,38.4571178894383,-77.9829735191759
+98,college,Richard Bland College of the College of William and Mary,37.158162819175,-77.3933582062395
+99,college,Bryant and Stratton College - Richmond Campus,37.4601970795525,-77.5422013493578
+100,college,Concord University,37.4239399662954,-81.0054171667562
+101,college,Park University - Quantico Campus,38.5064772224298,-77.3094191203399
+102,college,Institute for Advanced Learning and Research,36.5742495789168,-79.3553848005365
+103,college,Northern Virginia Community College - Medical Education Campus,38.7638161831815,-77.1760778133124
+104,college,John Tyler Community College - Midlothian Campus,37.4896525992607,-77.6645195822474
+105,college,Columbia College - Fairfax Campus,38.8783997350829,-77.2313856525428
+106,college,Germanna Community College - Stafford County Center,38.4601059390406,-77.4037877383163
+107,college,Northern Virginia Community College - Loudoun Campus,39.028662752865,-77.3921355721883
+108,college,J. Sargeant Reynolds Community College - Downtown Campus,37.5456155356243,-77.4313238730772
+109,college,Strayer University  - Virginia Beach Campus,36.842600402107,-76.1339269961169
+110,college,Southwest Virginia Community College,37.0056495175619,-81.7951528848548
+111,college,Liberty University,37.3505286384422,-79.1819236953661
+112,college,Hampden-Sydney College,37.2449813581669,-78.4557063912452
+113,college,National College - Charlottesville Campus,38.0592836039511,-78.494542140216
+114,college,Edward Via College of Osteopathic Medicine,37.1996755640853,-80.4061468410961
+115,college,University of Virginia's College at Wise,36.9706638713515,-82.5589449260697
+116,college,Germanna Community College - Locust Grove Campus,38.3752765905194,-77.7802945926086
+117,college,New College Institute,36.691987689896,-79.8725046004006
+118,college,Virginia Military Institute,37.7897991414967,-79.434875750746
+119,college,Thomas Nelson Community College - Historic Triangle Campus,37.241979760362,-76.6607824136369
+120,college,Central Texas College,37.2333299460816,-77.3434022141632
+121,college,Tidewater Community College - Chesapeake Campus,36.7253513310922,-76.2944593869198
+122,college,Strayer University - Loudoun,39.0490667826591,-77.4380700088585
+123,college,J. Sargeant Reynolds Community College - Western Campus,37.6947501396519,-77.8811929556891
+124,college,IGlobal University,38.8335413644969,-77.211256151554
+125,college,Shenandoah University,39.1660739509148,-78.1582208308639
+126,college,Bridgewater College,38.37886450977,-78.9706974920082
+127,college,Rappahannock Community College - Glenns Campus,37.5643522319207,-76.623828021637
+128,college,Central Michigan University - Fort Lee Center,37.2237974655872,-77.3478122837432
+129,college,Centura College - Richmond Main Campus,37.4991079913561,-77.5420368058455
+130,college,Northeast State at Johnson City,36.3173606028736,-82.3519176504707
+131,college,DeVry University - Arlington Campus,38.8510227010777,-77.050555279923
+132,college,Washington and Lee University,37.7877851850204,-79.4456352618744
+133,college,Central Michigan University - Joint Base Myer Center,38.8758733500209,-77.0820347178455
+134,college,Union Presbyterian Seminary,37.5790052165085,-77.4468442548871
+135,college,Virginia Tech - Richmond Center,37.627922533951,-77.5505619086217
+136,college,Park University - Henderson Hall,38.8690397385127,-77.0737803780758
+137,college,Old Dominion University - Quantico Campus,38.5064975521934,-77.3094156240968
+138,college,Bryant and Stratton College - Virginia Beach Campus,36.8288917074859,-76.137170622165
+139,college,National College of Business and Technology - Bristol Campus,36.5896823903131,-82.2664108948059
+140,college,Virginia Commonwealth University,37.5485859026538,-77.4531815592978
+141,college,Argosy University,38.8942391630296,-77.0758933153371
+142,college,Eastern Mennonite University,38.4711538302946,-78.8803770123837
+143,college,Strayer University - Henrico,37.6879533062706,-77.5911835811408
+144,college,Central Texas College - Quantico Campus,38.5064772224298,-77.3094191203399
+145,college,Old Dominion University - Richmond Campus,37.602445938865,-77.5484202405427
+146,college,Appalachian College of Pharmacy,37.2778573656491,-82.0958895533523
+147,college,Patrick Henry College,39.1398699067362,-77.6902593101206
+148,college,Central Michigan University - Pentagon Center,38.870790200105,-77.0561035149679
+149,college,National College - Lynchburg Campus,37.3513783757775,-79.2287008011802
+150,college,University of Mary Washington,38.3006639343139,-77.4745378122151
+151,college,George Washington University Graduate Education Center - Arlington,38.8821743296115,-77.1031661224472
+152,college,Eastern Virginia Medical School,36.8613420031851,-76.3013688624709
+153,college,Eastern Shore Community College,37.6406709425038,-75.7505643154589
+154,college,George Washington University Graduate Education Center - Alexandria,38.8048218781798,-77.0613686729004
+155,college,Northeast State at Gray,36.3968561330166,-82.4845772844195
+156,college,University of Maryland University College - Quantico Campus,38.5064975521934,-77.3094156240968
+157,college,Dabney S. Lancaster Community College,37.8124581239105,-79.8517510308008
+158,college,Stratford University - Woodbridge Campus,38.6550854092352,-77.3104213105152
+159,college,University of Richmond,37.5742477084046,-77.5400526537584
+160,college,Stratford University - Washington DC Metro Campus,38.9074936710339,-77.2144120400466
+161,college,Strayer University - Woodbridge,38.6582045316965,-77.3028960254638
+162,college,Radford University,37.1383432116645,-80.5512384749592
+163,college,Strayer University - Chesterfield,37.4548458233112,-77.6494419728545
+164,college,Virginia Highlands Community College,36.6987353090473,-82.00192917835
+165,college,Northern Virginia Community College - Woodbridge Campus,38.6185658605702,-77.2935554347677
+166,college,Florida Institute of Technology - NCR Graduate Center,38.5078447820094,-77.3090907977816
+167,college,Virginia International University,38.8594964364679,-77.3335310748671
+168,college,Virginia Wesleyan College,36.8688088866085,-76.188351178772
+169,college,College of William and Mary,37.2723140619846,-76.7112949255064
+170,college,Southern Virginia University,37.740523716432,-79.3501032914691
+171,college,Strayer University - Chesapeake,36.7648498052747,-76.2599453159999
+172,college,King College,36.5872419143115,-82.1630914956778
+173,college,University of Mary Washington School of Graduate and Professional Studies,38.3705192877591,-77.531482982866
+174,college,Longwood University,37.3009387441372,-78.3956930103683
+175,college,Old Dominion University - Peninsula Higher Education,37.0620730056212,-76.4149645455798
+176,college,Northern Virginia Community College - Manassas Campus,38.8094239079993,-77.5174887803333
+177,college,Strayer University - Fredericksburg,38.3376768418674,-77.497761030194
+178,college,California University of Management and Sciences,38.8796899512002,-77.112543139828
+179,college,Sweet Briar College,37.5564496703345,-79.0788022921132
+180,college,Averett University - Quantico Campus,38.5064772224298,-77.3094191203399
+181,college,Northern Virginia Community College - Alexandria Campus,38.8403922211171,-77.1154057274821
+182,college,Pikeville College,37.4814128307937,-82.5197593767206
+183,college,Northern Virginia Community College - Quantico Campus,38.5064975521934,-77.3094156240968
+184,college,Advanced Technology Institute - Southern Boulevard,36.8417316791186,-76.1819499969581
+185,college,National Institute of Aerospace Headquarters,37.0825915982982,-76.3983245772616
+186,college,Piedmont Virginia Community College - Eugene Giuseppe Center,38.2969216954767,-78.4380563105092
+187,college,James Madison University,38.4379581937387,-78.8729767629384
+188,college,Rappahannock Community College - Warsaw Campus,37.9570245125,-76.7622168616346
+189,college,Mary Baldwin University,38.1519922484952,-79.0702524461409
+190,college,Baptist Theological Seminary at Richmond,37.5792242397201,-77.4519242359037
+191,college,Stratford University- Virginia Beach Campus,36.8241803333486,-76.1292513773525
+192,college,George Mason University,38.8323548130028,-77.3083936718835
+193,college,Embry-Riddle Aeronautical University - Norfolk,36.9436567554362,-76.3036268399213
+194,college,"FROM safest_counties_per_location_type('college', 2014)",37.2446734883589,-81.2465660105813
+195,college,Randolph-Macon College,37.7628588520461,-77.4786383672638
+196,college,Bryant and Stratton College - Hampton Campus,37.0438208031887,-76.3928736477283
+197,college,Old Dominion Universty - Tri-Cities Higher Education Center,36.9039228346742,-76.4356195403486
+198,college,George Washington University  - Advanced Technology Center,36.7870792723994,-76.1018267513661
+199,college,National College - Danville Campus,36.5881717476363,-79.4219451822558
+200,college,University of Phoenix - Virginia Beach,36.8411878279002,-76.1335581873871
+201,college,Institute for the Psychological Sciences,38.8558581599626,-77.0514203880843
+202,college,University of the Potomac,38.917276867909,-77.2375043285729
+203,college,Virginia Tech - Hampton Roads Center,36.8928615667473,-76.1770538894021
+204,college,Roanoke College,37.2958395780057,-80.055425102955
+205,college,Christopher Newport University,37.0635191570662,-76.494351013637
+206,college,George Mason University - Arlington Campus,38.885279938497,-77.1011582395651
+207,college,theatre,37.5622017392934,-77.4499486555409
+208,college,Roanoke Higher Education Center,37.2745067505656,-79.9408663036906
+209,college,Northeast State at Bristol,36.5949701201274,-82.1843157330792
+210,college,Germanna Community College - Fredericksburg Campus,38.2318252832916,-77.4930205431846
+211,college,Ferrum College,36.9270091738682,-80.0216344713846
+212,college,Aviation Institute of Maintenance - Manassas Campus,38.7927439379114,-77.5139187828677
+213,college,George Washington University - Virginia Science and Technology Campus,39.0575418194917,-77.4433878404061
+214,college,Virginia College,37.5031409499397,-77.5297813796818
+215,college,Lincoln Memorial University - DeBusk Veterinary Teaching Center,36.6344210743271,-83.4836377832367
+216,college,American National University,37.299753621597,-80.0236126793195
+217,college,Centura College - Newport News Campus,37.1375904386179,-76.5215994135208
+218,college,University of Virginia Eastern Regional Center at Newport News,37.0831350436781,-76.4794900689075
+219,college,Strayer University - Manassas,38.8046259293415,-77.5197968891664
+220,college,Southside Virginia Community College - John H. Daniel Campus,37.0355519692325,-78.4578023889752
+221,college,Strayer University - Newport News,37.0846543968749,-76.4641508862735
+222,college,Northeast State at Elizabethton,36.3436106644781,-82.2154591247287
+223,college,Stratford University - Richmond Campus,37.6490694180165,-77.5988898632472
+224,theater,New Playwrights Theatre,38.9101115,-77.039977
+225,theater,Folger Theatre,38.8894492,-77.0023852
+226,theater,Horizons Theatre,38.903758,-77.062453
+227,theater,Departmental Auditorium,38.8926119,-77.0299767
+228,theater,Fort Dupont Summer Theater,38.8810253,-76.9568065
+229,theater,Atlas Performing Arts Center,38.9000102,-76.9874009
+230,theater,Senator Theater,38.8945,-76.9499
+231,theater,Ira Aldridge Theatre,38.9241667,-77.0211111
+232,theater,Cramton Auditorium,38.9244444,-77.0211111
+233,theater,McNeir Auditorium,38.9075028,-77.0741338
+234,theater,Elstad Auditorium,38.9051508,-76.9932867
+235,theater,Shakespeare Theatre Company - Lansburgh Theater,38.8957339,-77.0221317
+236,theater,Chevy Chase Theater,38.9637217,-77.0749778
+237,theater,Tivoli Theatre,38.9306003,-77.0324496
+238,theater,National Theatre,38.8963541,-77.0304994
+239,theater,Warner Theatre,38.8965108,-77.0293531
+240,theater,Andrew W Mellon Auditorium,38.8926119,-77.0296989
+241,theater,Gala Hispanic Theater,38.9309279,-77.0324431
+242,theater,Heights Playhouse,39.0262205,-77.1630351
+243,theater,Roundhouse Theater Company,39.05622,-77.0788671
+244,theater,Gibson Center and Tawes Theatre,39.2175,-76.0697222
+245,theater,Avrum Gudelsky Memorial Auditorium,39.0458333,-76.8502778
+246,theater,Mechanic Theater (Historic),39.2890382,-76.6160479
+247,theater,Merrick Lecture Hall,39.4091071,-76.5955759
+248,theater,Kraushaar Auditorium,39.4088487,-76.5956595
+249,theater,Coal Miners Memorial Theater,36.96403,-82.95189
+250,theater,Lakewood Music And Dance Center,36.8895525,-76.2641089
+251,theater,Studio Theatre,36.7736111,-81.8291667
+252,theater,Harris Theatre,38.831021,-77.3086304
+253,theater,James D Francis Auditorium,38.1513889,-79.0691667
+254,theater,Kimball Theatre,37.2707022,-76.7066237
+255,theater,King Memorial Auditorium and Gymnasium,38.152076,-79.0716959
+256,theater,Culbreth and Helms Theatre,38.0399346,-78.5044745
+257,theater,Thoresen Theatre,37.4375858,-79.1707755
+258,theater,Morris and Dorothy Haskins Ariel Theatre,38.8085602,-82.2046386
+259,theater,Bethesda Theatre,38.9872748,-77.0945738
+260,theater,Montgomery College Performing Arts Center,38.9870259,-77.0262729
+261,theater,Imagination Stage,38.9896779,-77.0994567
+262,theater,Round House Theatre,38.9851278,-77.0924343
+263,theater,Jiffy Lube Live,38.7854145,-77.5902378
+264,theater,Earl Hamner Theater,37.9233902,-78.8425056
+265,theater,Rosslyn Spectrum,38.8950706,-77.0691333
+266,theater,Maison Francaise,38.9136613,-77.0779419
+267,theater,Avalon Theatre,38.9652866,-77.0761285
+268,theater,Woolly Mammoth Theatre Company,38.8949849,-77.0215312
+269,theater,Studio Theater,38.9098424,-77.0314599
+270,theater,Lincoln Theatre,38.9172457,-77.0289788
+271,theater,Letelier Theater,38.906235,-77.063713
+272,theater,Fred And Anita Scott Amphitheater,38.8293415,-77.6703639
+273,theater,Brown's Isle Amphitheater,37.5338839,-77.4411725
+274,theater,Gatehouse Stage,39.0024971,-76.585612
+275,theater,AFI Silver Theatre and Cultural Center,38.9965784,-77.0274206
+276,theater,Mall Theater,38.1245022,-79.0624211
+277,theater,Parthenon Concert Hall,39.0067349,-77.1835556
+278,theater,Mead Theatre Lab,38.8980494,-77.024906
+279,theater,Upton Hill Regional Park Amphitheatre,38.8709443,-77.142336
+280,theater,Sun Music Hall,36.9098059,-80.3199237
+281,theater,Lawn Theater,39.1669758,-77.2064199
+282,theater,Bowie Center for the Performing Arts,38.9779629,-76.7424236
+283,theater,Shakspeare Theatre Company - Sydney Harmon Hall,38.8971394,-77.0204359
+284,theater,Alden Theatre,38.9408471,-77.1839733
+285,theater,Dallas L Peck Memorial Auditorium,38.9476208,-77.3678558
+286,theater,Amphitheater,39.2566029,-77.2873901
+287,theater,Colony Theatre,38.808423,-82.2048333
+288,theater,Appomattox Courthouse Theatre,37.3555315,-78.8297705
+289,theater,Concert Pavilion,39.1403019,-77.1934408
+290,theater,Keith Albee,38.4208538,-82.442896
+291,theater,Paramount Arts Center,38.4801042,-82.6428993
+292,theater,Barter Theatre Stage II,36.7104499,-81.9735923
+293,theater,Armstrong Concert Hall,39.1668863,-78.158206
+294,theater,Carter Barron Amphitheatre,38.9502918,-77.0417345
+295,theater,PEPCO Community Stage,39.1450158,-77.2077411
+296,theater,Shenanigans Theatre,37.2356893,-76.6489504
+297,theater,Staunton Performing Arts Center,38.1497594,-79.0708948
+298,theater,Court Square Theater,38.449992,-78.8701892
+299,theater,Old Brick Playhouse,38.9257618,-79.8496511
+300,theater,American Mountain Theatre,38.925856,-79.851801
+301,theater,Poor Farm Amphitheater,37.781591,-77.5433317
+302,theater,The Jefferson Theatre,38.0305939,-78.4812538
+303,theater,Harborplace Amphetheatre,39.2858577,-76.6118743
+304,theater,Peak View Stage,38.5957152,-78.3810405
+305,theater,Amphitheater,38.5901656,-78.3840499
+306,theater,Amphitheatre,38.9638727,-77.7341754
+307,theater,Park Avenue Theatre,36.934128,-82.6289254
+308,theater,HATtheatre,37.5994417,-77.6233004
+309,theater,Colonial Theatre,36.7247209,-78.1301129
+310,theater,NextStop Theatre,38.9563566,-77.375205
+311,theater,Reston Community Players at RCC Center Stage,38.9366436,-77.3608085
+312,theater,Walker Theatre,38.3479828,-81.628811
+313,theater,Main Gate Movies,36.9412031,-76.3072386
+314,theater,Ampitheatre,37.2280387,-76.7905269
+315,theater,Dojo Comedy Club,38.9331082,-77.0236143
+316,theater,Live Arts Theatre,38.0299349,-78.4811773
+317,theater,Reston Community Players - Rehearsal Hall,38.9568691,-77.3736223
+318,theater,The Garage,38.0319734,-78.481041
+319,theater,Childrens Theater,39.0286301,-76.4296355
+320,theater,Actors Guild,39.2672554,-81.5573997
+321,theater,CBN News,38.9058389,-77.0443547
+322,theater,Wolfbane Performing Arts Center,37.322466,-78.857996
+323,theater,Amphitheatre,38.9358459,-80.8337016
+324,theater,Concert Hall,39.0318962,-77.1029647
+325,theater,Dorothy M. and Maurice C. Shapiro Music Room,39.0313941,-77.1044319
+326,theater,Drafthouse Comedy,38.9039224,-77.0300911
+327,theater,Lively Amphitheater,37.9730644,-81.1484314
+328,theater,Mercury Theater,39.3105426,-76.6163878
+329,theater,Craighill S Burks Theater,38.9237132,-77.1861414
+330,theater,The Estates at Horsepen Amphitheater,37.5970116,-77.5195406
+331,theater,End Station Theatre Company,37.4139497,-79.1390938
+332,theater,Funny Bones Comedy Club,36.8424823,-76.1345999
+333,theater,The Anthem,38.880024,-77.0260142
+334,theater,Synetic Theater,38.856916,-77.0512468
+335,theater,Union Stage,38.8787165,-77.0240633
+336,theater,Klein Theatre,38.3049984,-77.4773926
+337,theater,Stone Ridge Amphitheater,38.9368814,-77.5477236
+338,theater,Amphitheater,36.8914669,-76.4430344
+339,theater,Southwood Stage,39.2394231,-81.5509916
+340,theater,Vern Riffe Center for the Arts,38.7318929,-82.9942101
+341,theater,Greenberg Theatre,38.9435748,-77.0776239
+342,theater,Wilson Hall,38.4380015,-78.8731188
+343,theater,Beacon Theatre,37.3049373,-77.2872528
+344,theater,Benjack Studio Theater,36.8507226,-76.2902509
+345,theater,Greenbelt Arts Center,39.001763,-76.8764716
+346,theater,Huntington Dance Theatre,38.4200454,-82.4453175
+347,theater,Huntington Dance Theatre,38.420467,-82.4451314
+348,theater,Black Box Theater,38.9968287,-77.0272571
+349,art,Springbank Arts Building,38.7734161,-77.0713533
+350,art,Fondo del Sol Visual Arts Center,38.9126115,-77.0471993
+351,art,Theodore Hagans Cultural Center,38.9242,-76.9582
+352,art,Peabody Conservatory of the Johns Hopkins University,38.9130027,-77.0369136
+353,art,Pope John Paul II Cultural Center,38.9376111,-77.002754
+354,art,Inter-American Development Bank Cultural Center,38.8996815,-77.030055
+355,art,Martin Luther King Junior Communications Arts Center,39.0177778,-76.7619444
+356,art,Rufus M and Loraine Hall Todd Performing Arts Center,38.9533333,-76.0833333
+357,art,Upton Cultural Center,39.3017736,-76.629968
+358,art,Montpelier Cultural Arts Center,39.0648313,-76.8427502
+359,art,Larrabee Arts Center,39.2163889,-76.0691667
+360,art,Dorchester Arts Center,38.5728965,-76.075218
+361,art,Charleston Art Gallery,38.3445417,-81.642068
+362,art,Mountain Arts Center,37.6563056,-82.792944
+363,art,Kentucky Folk Art Center,38.1816667,-83.4330556
+364,art,Deihn Fine and Performing Arts Center,36.8872222,-76.3077778
+365,art,Performing Arts Center,38.0393728,-78.5041926
+366,art,Fine Arts Center for the New River Valley,37.0476204,-80.7803491
+367,art,Roanoke Fine Arts Center,37.2465265,-79.9508706
+368,art,Augusta Art Center,38.1581869,-79.0780851
+369,art,Fine Arts Center,37.4159755,-79.1730804
+370,art,Bertie Murphy Deming Fine Arts Center,38.155,-79.0688889
+371,art,Byars Hall Visual and Performing Arts Center,36.7733333,-81.83
+372,art,Dillard Fine Arts Center,37.3972222,-79.1827778
+373,art,Fine and Performing Arts Center,38.8817444,-82.3801542
+374,art,Reston Orchestra,38.9363949,-77.3608972
+375,art,Washington Ballet,38.936967,-77.073074
+376,art,L'Eclat de Verre,38.9049188,-77.0669274
+377,art,Alla Rogers,38.904545,-77.0615423
+378,art,Winter Palace Studio,38.9045637,-77.0615651
+379,art,Cross MacKenzie Gallery,38.904603,-77.0616031
+380,art,Moca DC,38.9046095,-77.061701
+381,art,Parish Gallery,38.9045533,-77.0617716
+382,art,Joy of Motion Dance Center,38.9000102,-76.9876664
+383,art,Ashbrook Communtiy Center,37.3986238,-77.6844546
+384,art,Goethe-Institut,38.9005791,-77.0222029
+385,art,Artisphere,38.8951919,-77.0697944
+386,art,Barron and Ellin Gordon Art Galleries,36.8852403,-76.3005659
+387,art,The Foundation Event Facility,36.5948421,-82.184315
+388,art,Paramount Center for the Arts,36.5947756,-82.1826275
+389,art,Arts Depot,36.7076057,-81.9811489
+390,art,Smithsonian Institute Donald W. Reynolds Center for American Art and Portraiture,38.8982122,-77.0229669
+391,art,Goochland Art Center,37.6994264,-77.8894955
+392,art,Emergence Community Arts Collective,38.9242686,-77.0237791
+393,art,Cultural Arts Center at Glen Allen,37.6673154,-77.5014137
+394,art,The Dundalk Art School,39.2701711,-76.5023287
+395,art,Sultan Qaboos Cultural Center,38.9039136,-77.0368197
+396,art,Exittheapple Art Space,39.3162499,-76.6129296
+397,art,Contempary Arts Center of Virginia Beach,36.8487344,-75.9874957
+398,art,Mtn City Center For The Arts,39.6574101,-78.9283854
+399,art,Center for the Arts,38.7504899,-77.4723227
+400,art,District Architecture Center,38.895467,-77.021742
+401,art,Salsa With Sylvia,38.9308731,-77.0236723
+402,art,Lemon Bowl,38.9286641,-77.0229402
+403,art,Look Art Studio,38.915323,-77.0316405
+404,art,The Contemporary,39.2917783,-76.6200918
+405,art,Sipp Theatre,37.8137141,-82.8067783
+406,art,Newark Arts Alliance,39.6849301,-75.7417919
+407,art,Grayson Gallery and Arts Center,38.3324735,-82.9437791
+408,art,Passionworks,39.3308748,-82.1001715
+409,art,Hampshire County Artist Co-op,39.3416259,-78.7576006
+410,art,The Bottling Works,39.338757,-78.7513658
+411,art,The River House,39.2974862,-78.4343208
+412,art,Berkeley Art Works,39.4579317,-77.9636222
+413,art,Greenbelt MakerSpace,39.0015249,-76.8762031
+414,art,School of Rock,39.3316832,-76.6427121
+415,art,Barnes Agency Design & Digital Media Studio,38.4219375,-82.4433793
+416,bar,Cafe Saint Ex,38.9154205,-77.0317015
+417,bar,Red Land Club,38.0315033,-78.4770551
+418,bar,Ecitie,38.9310786,-77.236436
+419,bar,Car Pool,38.9669725,-77.3693273
+420,bar,Flanagan's Harp and Fiddle,38.9901507,-77.0971547
+421,bar,Saphire,38.9902695,-77.0958136
+422,bar,Bourbon,38.9202635,-77.0415814
+423,bar,Black Squirrel,38.9212341,-77.0419089
+424,bar,Soussi,38.9195312,-77.0418784
+425,bar,The Fab Lounge,38.9143559,-77.0457988
+426,bar,Bobby Lew's,38.9172638,-77.0418796
+427,bar,Brass Monkey,38.9201629,-77.0415154
+428,bar,Club Timehri,38.9215128,-77.0420009
+429,bar,The High Dive,38.9205949,-77.0416785
+430,bar,Madam's Organ,38.9220266,-77.0421814
+431,bar,Grand Central,38.9217494,-77.0420559
+432,bar,Dan's Cafe,38.920103,-77.0415353
+433,bar,Bossa,38.9220802,-77.0421955
+434,bar,The Attic,38.9215468,-77.0439277
+435,bar,Columbia Station,38.9203763,-77.0415829
+436,bar,Bedrock Billiards,38.9214878,-77.0438339
+437,bar,Sutra Lounge,38.9208887,-77.0423206
+438,bar,Player's Lounge,38.8471912,-76.9963228
+439,bar,The Scene,38.9192533,-76.9738869
+440,bar,Layla Lounge,38.9071341,-76.9989222
+441,bar,DC Star,38.9199037,-76.9724003
+442,bar,Serengeti,38.965345,-77.0279692
+443,bar,Simple Bar,38.960906,-77.028286
+444,bar,Petworth Citizen & Reading Room,38.9421221,-77.0244814
+445,bar,Porrón by ANXO,38.8819671,-76.9952596
+446,bar,Lounge 201,38.8946466,-77.0032801
+447,bar,H Street Country Club,38.9000207,-76.9870656
+448,bar,The Haymaker,38.8999962,-76.9920594
+449,bar,Club Elevate,38.9022273,-77.0078247
+450,bar,Atlas Arcade,38.9003573,-76.9889758
+451,bar,Capitol Lounge,38.8869387,-77.0024524
+452,bar,Little Miss Whiskey's Golden Dollar,38.9003597,-76.9912049
+453,bar,Bachelor's Mill,38.8771782,-76.9947481
+454,bar,Chateau,38.8960226,-76.9562037
+455,bar,The Pinch,38.9357605,-77.0330433
+456,bar,Asia Nine Bar and Lounge,38.896359,-77.0250648
+457,bar,Green Lantern,38.9044841,-77.0308673
+458,bar,Rocket Bar,38.8990127,-77.0221127
+459,bar,Zola Wine and Kitchen,38.8965187,-77.0237127
+460,bar,Archibald's/Fast Eddies Billiards Cafe,38.9021339,-77.035585
+461,bar,The Big Hunt,38.9084106,-77.0424176
+462,bar,The Fireplace,38.9098302,-77.0485969
+463,bar,Ozio Martini & Cigar Lounge,38.9058284,-77.04237
+464,bar,JR's Bar and Grill,38.9104732,-77.0381978
+465,bar,Omega,38.909194,-77.0476352
+466,bar,Sign Of The Whale,38.9058402,-77.0427803
+467,bar,Mission Mexican Restaurant Bar,38.9112951,-77.0450783
+468,bar,Mixers Lounge,38.9563927,-77.012092
+469,bar,Chinese Disco,38.9062589,-77.0637903
+470,bar,Saloun,38.9053053,-77.0641501
+471,bar,Smith Point,38.9076176,-77.0636422
+472,bar,McClellan's Retreat,38.9143053,-77.0465903
+473,bar,Vegas Lounge,38.9098587,-77.0326181
+474,bar,Number Nine,38.9098061,-77.033364
+475,bar,Cork Wine Bar,38.913322,-77.0322326
+476,bar,Da Hong Pao,38.9093736,-77.0316803
+477,bar,Raven Grill,38.929396,-77.0374038
+478,bar,Red Derby,38.9377279,-77.0330896
+479,bar,Mirrors,38.9075472,-77.0076848
+480,bar,The EFN Lounge and Motley Bar,38.9079172,-77.0242003
+481,bar,Jimmy Valentine's Lonely Hearts Club,38.9039136,-76.9806006
+482,bar,Hawthorne,38.916811,-77.031047
+483,bar,DC 9 Nightclub,38.9167112,-77.0242242
+484,bar,Vinoteca,38.9167297,-77.0273026
+485,bar,Local 16,38.9167985,-77.0370718
+486,bar,The Gibson,38.9173696,-77.0316423
+487,bar,Cloak & Dagger,38.9171453,-77.0314825
+488,bar,Station 9,38.9167982,-77.0328479
+489,bar,Sudhouse,38.9168579,-77.0311816
+490,bar,Pure Nightclub & Lounge,38.9167905,-77.0307384
+491,bar,Quarter & Glory,38.9176386,-77.0316179
+492,bar,Red Lounge,38.9174716,-77.0316138
+493,bar,Lounge of Three,38.9172062,-77.0264261
+494,bar,Twins Jazz,38.9167447,-77.0313007
+495,bar,JoJo Restaurant & Bar,38.9168375,-77.0353832
+496,bar,Chi-Cha Lounge,38.9167893,-77.0378895
+497,bar,Velvet Lounge,38.9171596,-77.0246671
+498,bar,MiHaley's,39.6677931,-79.9580324
+499,bar,The Big Board,38.9000577,-76.9997261
+500,bar,Rose’s Dream Bar & Lounge,38.900368,-76.9859753
+501,bar,Gypsy Sally's,38.9041378,-77.0681132
+502,bar,The Sovereign,38.9053845,-77.0629709
+503,bar,Georgetown Piano Bar,38.9053051,-77.0655971
+504,bar,Parlay Sports Bar & Lounge,38.9058368,-77.0428473
+505,bar,Heist,38.9063642,-77.042202
+506,bar,Public Bar,38.9062616,-77.0419687
+507,bar,Bar à Vin,38.9035707,-77.0608905
+508,bar,ENO Wine Bar,38.9048729,-77.0575413
+509,bar,Third Eye,38.9133141,-77.0452916
+510,bar,Larry's Lounge,38.915391,-77.0418536
+511,bar,Wok and Roll,38.920791,-77.0422277
+512,bar,Saloon,38.9171639,-77.0284843
+513,bar,All Souls,38.9157386,-77.022716
+514,bar,Mighty Mike's,38.9980852,-77.4069801
+515,bar,The Tasting Room,38.9609066,-77.086831
+516,bar,Raven Inn,39.3962895,-76.5634371
+517,bar,Truxton Inn,38.9138512,-77.0155774
+518,bar,Savour,38.9209353,-77.0423115
+519,bar,Sake House Inc.,37.2126394,-80.4018125
+520,bar,Memphis Belle,39.3366801,-76.4088618
+521,bar,Tavern in the Quarters,39.3292486,-76.3948257
+522,bar,Pit Stop,39.3347041,-76.4127833
+523,bar,Cap'n Cork,39.3347767,-76.4143979
+524,bar,Wilson Point Inn,39.3147073,-76.414902
+525,bar,Johann's,39.2824181,-76.427568
+526,bar,Benchwarmers Pub,39.3347283,-76.4448483
+527,bar,Pop's Tavern,39.2568625,-76.4623049
+528,bar,Old Legends Bar,36.7779501,-83.0537541
+529,bar,Felicita Restaurant & Club,39.1419021,-77.2229648
+530,bar,Charles Village Pub,39.3261586,-76.6157084
+531,bar,Valley Inn,39.55119,-81.643631
+532,bar,The Greene Turtle,38.5285551,-76.9783157
+533,bar,Hard Times,38.6365062,-77.2930949
+534,bar,Avenue Tavern,39.3248233,-76.4462879
+535,bar,Public Tenley,38.954052,-77.081597
+536,bar,Lou's City Bar,38.9284992,-77.033826
+537,bar,Little Village,39.6579429,-79.9850492
+538,bar,Apothecary,39.6296845,-79.9573672
+539,bar,Hops Inn,39.2763488,-76.528134
+540,bar,Jolynn's,39.2770547,-76.5272274
+541,bar,Dun Deglean,39.266548,-76.5185102
+542,bar,Phillip's Inn,39.2727775,-76.5232953
+543,bar,Kenny B's Blue Marlin,39.2706021,-76.5265354
+544,bar,Bay Shore Bar & Grill,39.2294538,-76.4307928
+545,bar,Overlea Station,39.3572574,-76.5280905
+546,bar,Sams Bar (at Doubletree),38.1008988,-78.4630153
+547,bar,Pearmund Cellars Winery,38.7834091,-77.7396526
+548,bar,Venue 112 Rock'n Sports Lounge,36.8463686,-76.0492862
+549,bar,Buffalo Wings And Beer,39.1609527,-77.1625758
+550,bar,Gentleman Jims,39.1680686,-77.1720836
+551,bar,Fardowners,38.0691825,-78.7003498
+552,bar,King Family Winery,38.0623934,-78.7284272
+553,bar,Tobacco Barn,38.3190911,-76.4561454
+554,bar,Tiki Bar,38.319484,-76.4560476
+555,bar,CD Cafe's Next Door Lounge,38.3265928,-76.4618827
+556,bar,Players Bar and Grill,39.3073763,-76.8901458
+557,bar,The White Oak Tavern,39.281447,-76.856976
+558,bar,Desperados,38.9168196,-77.0312337
+559,bar,Cuba Pete's,37.2703693,-79.943208
+560,bar,Nottingham's,39.1902033,-76.8149077
+561,bar,Avenue Cafe Lounge,38.9080178,-77.0349053
+562,bar,The Bank Shot Bar & Grill,39.0907595,-76.7770658
+563,bar,Bar Dupont,38.910368,-77.0431485
+564,bar,Morgan's Sports Bar & Lounge,38.6513285,-77.3045453
+565,bar,American Ice Company,38.9183318,-77.0252656
+566,bar,The Tasting Room,38.7853068,-77.0161044
+567,bar,Stadium Lounge,38.4224093,-82.4339854
+568,bar,Fresh Tapas & Tonics,36.7664617,-76.0155681
+569,bar,S & J Restaurant,38.9625477,-76.935743
+570,bar,Bar Louie,39.0863301,-77.1520911
+571,bar,Das Bier Haus,39.2717396,-76.6117003
+572,bar,The Old City Bar,37.5338433,-77.4287017
+573,bar,Bungalow Billiards,38.893736,-77.425778
+574,bar,Brickhouse,37.0837804,-76.4887104
+575,bar,Bilbo Baggins,38.806577,-77.0413446
+576,bar,Woody's Rum Bar and Island Grill,39.2820036,-76.592676
+577,bar,Slainte Irish Pub and Restaurant,39.2820121,-76.592557
+578,bar,Kooper's Tavern,39.2820152,-76.5924801
+579,bar,Boveda,38.905123,-77.050767
+580,bar,Frisby's Bar & Grill,37.5155249,-77.794356
+581,bar,Durty Nelly's Pub-Wayside Deli,38.0257153,-78.5154159
+582,bar,Red Dog Saloon,36.8677268,-76.2982844
+583,bar,Penn Social,38.8963031,-77.0231869
+584,bar,Mackey's,38.8981015,-77.0302259
+585,bar,Black Whiskey,38.9092784,-77.0322917
+586,bar,Satellite Room,38.9181294,-77.0237774
+587,bar,The Pompei Lounge,38.149689,-79.0717062
+588,bar,Barcelona Wine Bar & Restaurant,38.9120935,-77.0323977
+589,bar,Wolf Hills Brewery,36.7123541,-81.9653957
+590,bar,Gordon Biersch Brewery,38.9815145,-76.5418406
+591,bar,Showtime Lounge,38.9157733,-77.0127143
+592,bar,TD Lounge,39.1032323,-76.8439251
+593,bar,Shamrock Cafe,39.5402,-82.407731
+594,bar,Whirlz Yogurt Bar & Crepes,39.2437141,-76.8425039
+595,bar,Blue Mountain Barrel House,37.7103488,-78.9438603
+596,bar,Right Proper Brewing Company,38.9154119,-77.0213751
+597,bar,Roots Rock Reggae,38.0344736,-78.5000832
+598,bar,High Life Lounge,38.9200284,-79.8424248
+599,bar,Beander's,38.9258372,-79.8493447
+600,bar,Jabberwock,38.923411,-79.849518
+601,bar,Continental Divide,38.0318456,-78.4909688
+602,bar,United Global First Class Lounge,38.9454647,-77.441797
+603,bar,High Life Lounge,38.9971194,-80.2325875
+604,bar,88 Bar & Lounge,38.9943468,-80.2260235
+605,bar,Hot Spot Lounge,39.2569746,-80.3216674
+606,bar,High Life Lounge,39.2673689,-80.3291616
+607,bar,AleWerks Brewing Company,37.3210783,-76.7328773
+608,bar,Good Times Lounge,39.0699681,-78.9678257
+609,bar,Biggio's,39.2789239,-80.3529886
+610,bar,MJ's Sports Bar,39.4816252,-80.1382251
+611,bar,Capital Ale House - Innsbrook,37.6484953,-77.58391
+612,bar,The Beach House,37.6487636,-77.5854444
+613,bar,Sharky's Bar & Billiards,37.6482611,-77.5846002
+614,bar,The Halligan Bar & Grill,37.6481468,-77.6046069
+615,bar,The Wine Loft,37.6485108,-77.6020793
+616,bar,Alewife,39.2902486,-76.6208393
+617,bar,Speakeasy Saloon Dining House,39.280423,-76.5755654
+618,bar,Plug Ugly's Publick House,39.2804408,-76.5751145
+619,bar,El Buffalo,39.2799827,-76.5745913
+620,bar,Southern Provisions,39.280483,-76.573847
+621,bar,Tony's Tavern,39.3305386,-82.1014666
+622,bar,MVP Bar & Grill,38.7948953,-77.613608
+623,bar,Trusty's,38.880172,-76.984378
+624,bar,Mister Days Sports Rock Cafe,38.8860496,-77.0950059
+625,bar,Bracket Room Sports Lounge & Eatery,38.8869107,-77.0941262
+626,bar,Continental Modern Pool Lounge,38.897949,-77.0716336
+627,bar,Bravo,38.927789,-77.022867
+628,bar,Red Light,38.912787,-77.0321987
+629,bar,Obrycki's Restaurant & Bar,39.1807349,-76.6731912
+630,bar,Bar,39.2826675,-76.5923412
+631,bar,Wisdom,38.8800854,-76.9841302
+632,bar,Lyman's,38.93779,-77.033012
+633,bar,Young's Place Tavern & Package Goods,39.2943697,-76.5862747
+634,bar,Ivy & Coney,38.9106583,-77.0217096
+635,bar,The Rec Room,39.4010133,-76.6020706
+636,bar,The Kent House,39.4007002,-76.6021338
+637,bar,Peace Lounge,38.9250019,-77.0228621
+638,bar,Cheerz,38.9784401,-77.0261822
+639,bar,Creation Inn,38.9791706,-77.0267323
+640,bar,Torrent Lounge,39.4010082,-76.6013817
+641,bar,Froggy Bottom Pub,38.9027776,-77.0457902
+642,bar,Skeeter's Bar,39.2668015,-76.6525611
+643,bar,BJ’s Pub,39.3966334,-76.4761613
+644,bar,American Tap Room,37.5821188,-77.4979879
+645,bar,Johnny Dee’s Banquet Hall,39.3929862,-76.5627395
+646,bar,Johnny Dee’s Lounge,39.3930749,-76.5625879
+647,bar,McAvoy's,39.389001,-76.5425686
+648,bar,Lil' Dicky's,39.3996099,-76.6024691
+649,bar,The Crease,39.4012786,-76.6025201
+650,bar,Souris Saloon,39.40146,-76.6026185
+651,bar,The Horse You Came In On Saloon,39.2815148,-76.5941314
+652,bar,Duda's Tavern,39.2811203,-76.5948556
+653,bar,Bar Louie,39.3712407,-76.4652517
+654,bar,Della Rose's Avenue Tavern,39.3711373,-76.4635601
+655,bar,Poplar Pub & Restaurant,39.2699819,-76.5023961
+656,bar,Rye,39.2815559,-76.5935646
+657,bar,Birds of a Feather Scotch Bar,39.2836872,-76.5925581
+658,bar,ABC Liquors and Lounge,38.2913053,-76.4953664
+659,bar,Nick's Roman Terrace,37.6259686,-77.532413
+660,bar,World of Beer,38.0319625,-78.4926293
+661,bar,Comedy Sportz,37.6360024,-77.5448415
+662,bar,Corner Pocket,37.1983755,-77.3773835
+663,bar,The Cellar,37.2309503,-80.4150229
+664,bar,Omega Bar,36.8719408,-76.1690309
+665,bar,Thurmont Bar and Grill,39.6234718,-77.4111811
+666,bar,The Eagle's Nest Bar,36.7917493,-76.237854
+667,bar,Wings At Indian River Bar And Grill,36.8186903,-76.2234859
+668,bar,Brittany’s Sports Bar,38.6836468,-77.3177211
+669,bar,Tropicalia Lounge,38.917138,-77.0316421
+670,bar,Judy's,37.749588,-81.1376515
+671,bar,The Pitch,38.940253,-77.024788
+672,bar,Bar Charley,38.9150699,-77.0414418
+673,bar,The Green Turtle,37.0434956,-76.3937951
+674,bar,Bar Louie,37.0435609,-76.3933418
+675,bar,B-Side,38.8735286,-77.2307129
+676,bar,Cities,38.9020075,-77.0431824
+677,bar,Zeba Bar,38.9322311,-77.0324622
+678,bar,The Goddess,39.2876341,-76.6210339
+679,bar,The Hipp Cafe,39.2894381,-76.6211358
+680,bar,The Broadberry,37.5617414,-77.4692977
+681,bar,Bar Symon,38.9453607,-77.450941
+682,bar,Peter's,39.2883616,-76.6129808
+683,bar,The Water Street Tavern,39.2882462,-76.6133419
+684,bar,The Wharf Rat,39.2825805,-76.5910662
+685,bar,Fells Point Tavern,39.2812265,-76.5947658
+686,bar,Rocket to Venus,39.3285474,-76.6295091
+687,bar,Ottobar,39.3188574,-76.6196694
+688,bar,13.5% Wine Bar,39.3309353,-76.6343895
+689,bar,Hon Bar,39.3312352,-76.6328312
+690,bar,Portside,39.2798971,-76.5760074
+691,bar,Liberty Bar,37.5431305,-77.43701
+692,bar,The Wine Harvest,39.1224573,-77.2348261
+693,bar,Dante's Bar-Art-Music,39.6575543,-78.9285423
+694,bar,Honi-Honi Bar,39.5046084,-79.3249268
+695,bar,Golden Sports Bar,39.277383,-76.817459
+696,bar,Town Hall Liquors,38.9908738,-76.9334482
+697,bar,Conah's Bar & Grille,39.5732155,-76.9941709
+698,bar,Angles Bar,38.920664,-77.0416197
+699,bar,Red Red Wine Bar,38.9778461,-76.4906898
+700,bar,Stan & Joe's Saloon,38.9782357,-76.4947858
+701,bar,Charlie's Bar,38.9771253,-76.487195
+702,bar,Sandman's,39.2839931,-76.5680678
+703,bar,a.lounge,38.899962,-77.04017
+704,bar,Tiki Bar,39.2775649,-76.5784972
+705,bar,A-Town Bar & Grill,38.8821838,-77.1096373
+706,bar,Full Moon Tavern,38.7752861,-80.209532
+707,bar,Highline RxR,38.855814,-77.049689
+708,bar,Sandy's,38.367926,-81.697717
+709,bar,Kislings Tavern,39.2849464,-76.5868352
+710,bar,The Pub,38.9336386,-77.1801364
+711,bar,Rum Runners,38.7506237,-77.4712836
+712,bar,Jackpot,38.8991219,-77.0221972
+713,bar,Sports Bar,37.4660303,-77.4285871
+714,bar,KD's Pub and Grub,39.6274946,-79.9528597
+715,bar,Kardinal Hall,38.0359561,-78.4878299
+716,bar,Bent Willey's,39.6321217,-79.9554658
+717,bar,Peggy Sue's Bar,37.892473,-81.1689966
+718,bar,Fat Daddy's Bar & Grill,39.6317275,-79.9549506
+719,bar,RockTop Bar & Grill,39.6309025,-79.9564125
+720,bar,Chemistry,36.8497445,-75.975625
+721,bar,Mai Bar,36.8510119,-75.9762171
+722,bar,The Boxx,36.8496906,-75.9756092
+723,bar,Lost and Found,38.9068745,-77.0241689
+724,bar,High Velocity,38.9040184,-77.0242313
+725,bar,Vino Volo,39.17988,-76.672516
+726,bar,Mad Annie's Tavern,38.6986182,-80.6626075
+727,bar,Finnegan’s Bar & Grill,39.0446097,-77.4756281
+728,bar,Midlands Beer Garden,38.931973,-77.023428
+729,bar,Reliable Tavern,38.936067,-77.0240637
+730,bar,The Dew Drop Inn,38.9259285,-76.9947194
+731,bar,123 Pleasant Street,39.6295396,-79.9579303
+732,bar,The Gryphon,38.9082613,-77.0423275
+733,bar,Southside Saloon,39.2729763,-76.6074137
+734,bar,Chief's,38.1655591,-76.5343991
+735,bar,Sonoma's,39.1865314,-76.8436922
+736,bar,Hank's Cocktail Bar,38.9420896,-77.0241586
+737,bar,2010 Lounge,38.9173863,-77.0242088
+738,bar,Base Line Brews,38.8725594,-77.0064754
+739,bar,Red Porch,38.8738395,-77.0073095
+740,bar,Encore Ultra Lounge,37.5361151,-77.4342089
+741,bar,KAI,37.5356359,-77.4339996
+742,bar,Grand Cata,38.910724,-77.0222
+743,bar,McClafferty's Irish Pub,39.6308167,-79.9576605
+744,bar,Butts and Betty's Tavern,39.2881521,-76.5858468
+745,bar,Old Bust Head Brewing Company,38.7440342,-77.675794
+746,bar,Rock Wall,38.6734561,-80.7749943
+747,bar,2 Birds 1 Stone,38.9142512,-77.0323441
+748,bar,Sotto,38.9115533,-77.0323597
+749,bar,Diet Starts Monday,38.9172638,-77.0316361
+750,bar,Muddie Waters,39.54192,-82.420871
+751,bar,The Max Bar and Grill,39.542463,-82.421488
+752,bar,Home Tavern,39.538236,-82.416944
+753,bar,Crystal Bar,39.537441,-82.392834
+754,bar,Growling Bear Brewing Company,38.6508307,-77.3088137
+755,bar,Barcode,37.5447481,-77.4424473
+756,bar,Denson,38.897132,-77.0202003
+757,bar,Union Drinkery,38.9305184,-77.0236671
+758,bar,Penn Commons,38.8987596,-77.0201233
+759,bar,The Local,37.5460205,-77.4557648
+760,bar,The Rogue Gentlemen,37.5488208,-77.437685
+761,bar,Appel's Gateway,39.6482725,-78.7709839
+762,bar,Muzette,38.9198032,-77.0415129
+763,bar,The Winery at La Grange,38.8508817,-77.6861043
+764,bar,Finnigan's Cove,38.4486648,-78.8697616
+765,bar,Ruby's Arcade,38.4476489,-78.8697416
+766,bar,Ground Floor Lounge,38.7328303,-79.9698664
+767,bar,Hair of the Dog Bottle Shop,37.2714113,-76.705989
+768,bar,Barcode,38.9039033,-77.0380051
+769,bar,Jack Brown's,37.5731996,-77.5189257
+770,bar,Beijing on Grove,37.5732107,-77.5177308
+771,bar,Blue Valley Vineyard And Winery,38.8919089,-77.9013582
+772,bar,Spare Times Bar and Grill,36.6885859,-78.8801664
+773,bar,Quench,39.0916838,-77.2041649
+774,bar,Sliders Bar and Grill,39.2856465,-76.6225963
+775,bar,Hive Bar,38.8971909,-77.0497819
+776,bar,r.bar,39.321671,-76.6221426
+777,bar,Taps Fill Station,39.2960171,-76.6187529
+778,bar,Cherry Blossom Pub,38.9151076,-77.0216537
+779,bar,Mezzos Tavern,39.6506524,-78.7604156
+780,bar,Smiling Skull,39.3292654,-82.1051494
+781,bar,Cat's Den,39.3293172,-82.1052309
+782,bar,The Passenger,38.9107097,-77.0217148
+783,bar,Suburbia,38.9082261,-76.9971669
+784,bar,World of Beer,39.0841986,-77.1503243
+785,bar,The Riggsby,38.9133369,-77.0396171
+786,bar,The Naked Olive Lounge,39.6282662,-78.2273336
+787,bar,Hillbilly Heaven,39.6298023,-78.1759536
+788,bar,Tyber Creek,38.9154232,-77.0119424
+789,bar,Bin 1301,38.9171459,-77.0306168
+790,bar,Top of the Yard Rooftop Bar & Bites,38.8748376,-77.0064153
+791,bar,Kiss,38.9157192,-77.0213818
+792,bar,Caroline's Bar,39.0168213,-77.0893363
+793,bar,The Brig,38.8778261,-76.9952839
+794,bar,Eat-Bar,38.8831986,-76.9951878
+795,bar,ANXO Cidery & Tasting Room,38.9565206,-77.0228637
+796,bar,The Codmother,38.9167747,-77.0309828
+797,bar,The Rye Bar,38.9040146,-77.0613312
+798,bar,18th Street Lounge,38.9062223,-77.0421331
+799,bar,Rosebar,38.9064031,-77.0411812
+800,bar,Off The Record,38.9028416,-77.038828
+801,bar,Gazuza,38.9119108,-77.0443476
+802,bar,The Dirty Goose,38.9172384,-77.0246152
+803,bar,Barcelona,38.9120384,-77.0324486
+804,bar,Kingfisher DC,38.9094395,-77.0321972
+805,bar,Trade,38.9092778,-77.0321905
+806,bar,PostScript,38.9053837,-77.0343021
+807,bar,Le Bar,38.9003972,-77.03392
+808,bar,Republic Restoratives Distillery,38.9153108,-76.9852841
+809,bar,Sing Sing Karaoke Bar,38.9003606,-76.9893681
+810,bar,Atlas Brew Works,38.9148494,-76.9813086
+811,bar,Murray Hill Club,38.9148077,-76.9815312
+812,bar,Pinea,38.8967307,-77.0333211
+813,bar,Franklin Hall,38.9200515,-77.0312484
+814,bar,bar247,39.1569068,-76.609225
+815,bar,Columbia Room,38.9063714,-77.0244364
+816,bar,Bardo Brewpub,38.8701326,-77.0074084
+817,bar,The Laughing Pint,39.2885097,-76.5674064
+818,bar,Castaways Bar & Grill,39.2837893,-76.5853098
+819,bar,Smaltimore,39.2831763,-76.5804498
+820,bar,The Majestic,38.8239966,-77.0586126
+821,bar,Heavy Seas Beer,39.2320796,-76.6758041
+822,bar,Brookey's,39.3277475,-76.5657036
+823,bar,Oasis,39.2896498,-76.609484
+824,bar,Java Moon Cafe,39.3075119,-76.615973
+825,bar,Down Under Pub,38.6840962,-77.2602447
+826,bar,Dio Wine Bar,38.9003923,-76.9934442
+827,bar,DC Craft Brews,38.9453941,-77.4539788
+828,bar,United Club,38.9454693,-77.4452046
+829,bar,United Club,38.9454592,-77.4431173
+830,bar,Breaker's Sky Lounge,38.9499248,-77.4091513
+831,bar,Watering Hole,38.8793378,-77.0254092
+832,bar,Pearl Street Warehouse,38.8788327,-77.024004
+833,bar,Bravo Bravo,38.9029189,-77.0392331
+834,bar,Nidos,38.9305449,-76.9737266
+835,bar,Free State,38.8984588,-77.0192399
+836,bar,Kalypso's Sports Tavern,38.9688565,-77.3407018
+837,bar,Midway Bar,39.2896532,-76.6093566
+838,bar,R bar,39.1569544,-76.7269865
+839,bar,Route 24 Ale House,39.4980904,-76.3264617
+840,bar,Left Door,38.914254,-77.0315008
+841,bar,The Union Bar & Grill,39.327695,-82.102193
+842,bar,Union Trust,38.8998555,-77.0338922
+843,bar,J Bar,39.3304617,-82.1012621
+844,bar,Lucky's,39.3296465,-82.1013518
+845,bar,The Pub,39.3303955,-82.1012584
+846,bar,Pawpurrs,39.3303281,-82.101261
+847,bar,The Pigskin,39.3301858,-82.1009498
+848,bar,The CI,39.3300403,-82.1009666
+849,bar,The Crystal,39.3300899,-82.1009643
+850,bar,Red Brick Tavern,39.3296677,-82.1010146
+851,bar,Cat's Eye,39.3296065,-82.1010173
+852,bar,The Hangover,39.3311474,-82.1011572
+853,bar,Hooka Lounge,39.330361,-82.1007136
+854,bar,Wispers Mountainside Bar,39.5565288,-79.3628106
+855,bar,Brothers and Sisters,38.9227894,-77.0416213
+856,bar,The Brass Tap,39.4048018,-76.5987822
+857,bar,Moby’s,39.2830085,-76.5930495
+858,bar,DogWatch Tavern,39.2832053,-76.5930714
+859,bar,Rodos Bar,39.2830591,-76.5930503
+860,bar,Brass Rail,39.3415745,-78.7564733
+861,bar,The Marquee,38.9229305,-77.0540902
+862,bar,Micky's,39.2350818,-76.4564181
+863,bar,The Green Room,39.2843569,-76.4945317
+864,bar,SUKI HANA,39.1572471,-76.72574
+865,bar,Kelly's Hot Spot,38.4529883,-81.9365071
+866,bar,A&D Bar,38.9077599,-77.0241401
+867,bar,Philip Carter Winery,38.8561811,-77.9908997
+868,bar,Cobbler Mountain Cellars,38.8483417,-77.9439724
+869,bar,Desert Rose Ranch and Winery,38.8402265,-78.084
+870,bar,Septenary,38.0419055,-78.7476946
+871,bar,Solace Brewing Company,38.9508775,-77.5282664
+872,bar,Terra 2,39.31769,-76.6151591
+873,bar,Aspen Dale Winery at the Barn,38.9076614,-77.9615924
+874,bar,Lobby Bar,38.9243145,-77.0547939
+875,bar,Washington Pour Bar,38.8561708,-77.0422941
+876,bar,Vino Wine Bar & Shop,39.2814357,-76.5909618
+877,bar,The Point In Fells,39.2820289,-76.5913223
+878,bar,Cat’s Eye Pub,39.2820145,-76.5915485
+879,bar,Penny Black,39.2820562,-76.5910082
+880,bar,Urban Pirates,39.281253,-76.5909538
+881,bar,H Bar,38.87865,-77.0240825
+882,bar,SoBo Market,39.2714909,-76.6135746
+883,bar,Whiskey Charlie,38.8784044,-77.0237316
+884,bar,Betsy,38.882216,-76.9944661
+885,bar,The Shack on 8th,36.8364958,-75.9721
+886,bar,Fallout Shelter Craft Beer & Classic Arcade,39.6310764,-79.9557128
+887,bar,Service Bar DC,38.9168326,-77.0250287
+888,bar,Grain Rooftop Beer Garden,36.8463506,-76.292025
+889,bar,Agave Lounge,36.9102111,-76.0742037
+890,bar,Bar,37.5531511,-77.4809487
+891,bar,PBR,36.8442436,-76.2916349
+892,bar,Blue Moon Taphouse,36.8440297,-76.2908141
+893,bar,The Yard,36.844326,-76.2906045
+894,bar,The Harbor Club,36.8441802,-76.2912275
+895,bar,Starr Hill Market Bar,36.8443469,-76.2908321
+896,bar,VIN Wine Bar,36.8442193,-76.2908874
+897,bar,Rod 'n Reel Tavern,38.6905529,-76.5331918
+898,bar,Norfolk Tap Room,36.8465135,-76.2924117
+899,bar,Hell's Kitchen,36.846922,-76.2919226
+900,bar,Grace O'Malleys,36.8483551,-76.2914614
+901,bar,Brick Anchor Brewhouse,36.8491395,-76.291036
+902,bar,Pourhose of Norfolk,36.8495208,-76.2908074
+903,bar,Scotty Quixx,36.8521189,-76.2892154
+904,bar,Gershwins,36.8505542,-76.2899962
+905,bar,Tap It,36.8491505,-76.2906935
+906,bar,Mount Vernon Saloon,39.3000386,-76.6156715
+907,bar,District 5,37.548922,-77.4655256
+908,bar,4th & Goal,39.6294351,-79.9554398
+909,bar,Liquid Lounge,39.6295898,-79.9552705
+910,bar,Culture Lounge,36.8570814,-76.2880185
+911,bar,Morini Piccolo,38.8729329,-77.0016567
+912,bar,Oygen,39.2891742,-76.612441
+913,bar,Wit's End Saloon,39.4531245,-76.6411578
+914,bar,The Cellar at Chef Paolino Cafe,39.2767028,-76.8348947
+915,bar,Endless Trails Hookah Bar,37.1092644,-76.3930285
+916,bar,Cantina Bambina,38.8799059,-77.0263921
+917,bar,88 Restaurant & Lounge,38.994173,-80.2256052
+918,bar,Centiennial Pub,38.9951407,-80.2326675
+919,bar,Dylan’s Oyster Cellar,39.331331,-76.6292644
+920,bar,Skyline Cafe-Ethiopian Cuisine,38.8409513,-77.1201647
+921,bar,Red Star,39.3279221,-76.6162526
+922,bar,Maxie’s,39.3256032,-76.6170478
+923,bar,Baltimore Spirits Company,39.3359946,-76.6440414
+924,bar,World of Beer,39.4064388,-76.7816562
+925,bar,Walt's Inn,39.2802269,-76.5709669
+926,bar,The Thirsty Beaver,38.7384482,-82.9754221
+927,bar,PatRick’s Sports Bar & Grill,39.3090609,-76.4747121
+928,bar,444 Liquors,39.3084769,-76.4766714
+929,bar,Duck On Inn,39.3066279,-76.4796433
+930,bar,Rock-A-Billy's,39.3316602,-76.4435502
+931,bar,Billy Motel Bar,39.1297589,-79.4731852
+932,bar,The G.O.A.T.,38.8874284,-77.0948376
+933,bar,Pappas Sports Bar,39.2873808,-76.6198498
+934,bar,Naughty Scotties,37.2264534,-80.4088173
+935,bar,Suspended Brewery,39.2830093,-76.6314932
+936,bar,The Williamsburg Winery Tasting Room and Wine Bar,37.2711593,-76.7066082
+937,bar,Montego Bar & Grille,39.310484,-76.6166521
+938,bar,Bean Bar,39.0900326,-77.5257386
+939,bar,Bar Louie,39.0516572,-77.4541461
+940,bar,World of Beer,39.0504967,-77.4539212
+941,bar,Apple Lounge Hookah Bar,38.916819,-77.0276426
+942,bar,Hub Sports Bar & Grill,39.3248835,-76.5405107
+943,bar,Diamond Bar,38.8289315,-77.1930037
+944,bar,Hyatt,38.8909761,-77.0875363
+945,bar,Wilson hardware,38.8885502,-77.0937548
+946,bar,Brickhouse Tavern,37.2739629,-76.7123247
+947,bar,Legends,39.0408732,-77.0502399
+948,bar,Unplugged,39.040725,-77.0504146
+949,bar,British Airways Lounge,38.9488749,-77.4509703
+950,bar,Lufthansa Lounge,38.9488748,-77.4509246
+951,bar,Turkish Airlines Lounge,38.9488825,-77.4495735
+952,bar,Virgin Atlantic Clubhouse,38.9488288,-77.4472976
+953,bar,Air France Lounge,38.9488382,-77.445598
+954,bar,Eithad Airways Lounge,38.9486153,-77.4446744
+955,bar,The Lantern,38.4204873,-82.4450132
+956,bar,Summit Beer Station,38.4211343,-82.444121
+957,bar,The Cellar Door Tapas Room,38.4218991,-82.4437426
+958,bar,The Peddler,38.4216958,-82.4448354
+959,bar,Green,38.4220056,-82.4362726
+960,bar,Port City Tavern,39.2859282,-76.5878048
+961,bar,Catbird,37.3018338,-78.3942884
+962,bar,Fox & Hounds Lounge,38.9108644,-77.0382685
+963,bar,Wrangler,39.5210526,-81.4161167
+964,bar,Valley Grill Sports Bar,39.4344218,-77.528999
+965,bar,The Crown & Crow,38.9078763,-77.0315771
+966,bar,Citizen burger,38.8860594,-77.0945753
+967,bar,Big Fish Cider Company,38.4122225,-79.5829143
+968,cafe,&Pizza,38.9580537,-77.3587792
+969,cafe,49 West,38.9782268,-76.4951836
+970,cafe,821 Cafe,37.5443974,-77.4527111
+971,cafe,A Baked Joint,38.9022859,-77.0171472
+972,cafe,a Deli DC,38.9080903,-77.0036533
+973,cafe,Altus Chocolate,37.2716902,-79.9380879
+974,cafe,Aroma Cafe,37.5536937,-77.4550429
+975,cafe,Artful Dodger,38.44966,-78.8697396
+976,cafe,"Asian American II- Chinese, Burgers",38.9018898,-77.0126456
+977,cafe,Atlas Coffee,38.0257058,-78.5157345
+978,cafe,Atrium Cafe,38.9925799,-77.0309722
+979,cafe,Avocado Cafe,38.9086177,-77.0641486
+980,cafe,Bagel Cafe,38.967549,-77.3722044
+981,cafe,Bagels & Baguettes,38.8949619,-77.0022133
+982,cafe,Baked and Wired,38.9038788,-77.0604347
+983,cafe,BakeHouse,38.9157171,-77.0324462
+984,cafe,Baladi Mediterranean Cafe,36.852133,-76.0208775
+985,cafe,Banana Cafe And Piano Bar,38.8825769,-76.9947235
+986,cafe,Bean Counter,38.9120804,-77.0656741
+987,cafe,Bean Rush cafe,38.9907801,-76.5029111
+988,cafe,Bean Tree Cafe,37.3397244,-79.2255954
+989,cafe,Beanetics Coffee Roasters,38.8342257,-77.1881528
+990,cafe,Belga Cafe,38.8821724,-76.9947139
+991,cafe,Bell Cafe,37.6357346,-77.3576435
+992,cafe,Bernie's Deli,38.8371466,-77.3123531
+993,cafe,Best Café,37.556533,-77.4751763
+994,cafe,Bethesda Bagels,38.8767448,-77.0048083
+995,cafe,Bethesda Bagels,38.9810816,-77.0966061
+996,cafe,Black Hand Coffee Co,37.5604469,-77.4759949
+997,cafe,Blind Dog,38.9193192,-77.0251426
+998,cafe,Bloop,38.0016484,-78.4962863
+999,cafe,Blue Bottle Coffee,38.9081158,-77.0001308
+1000,cafe,Blue Bridge Cafe,38.5337167,-82.6850081
+1001,cafe,Blue Sky,37.7852722,-79.4443169
+1002,cafe,Bluestone Lane,38.9038984,-77.050379
+1003,cafe,Blümen Cafe,38.8899625,-77.0901605
+1004,cafe,Bollo's Cafe & Bakery,37.2297829,-80.4158579
+1005,cafe,Booeymonger,38.9588925,-77.085023
+1006,cafe,Booeymonger Restaurant,38.9061157,-77.0650625
+1007,cafe,Borjo Coffeehouse,36.8848025,-76.2995497
+1008,cafe,Boulevard Cafe,38.923499,-77.2277565
+1009,cafe,Bourbon Coffee,38.8974711,-77.0705125
+1010,cafe,Boyer's,37.5731389,-77.5188612
+1011,cafe,Branch and Vine,37.5491663,-77.4661305
+1012,cafe,Bread & Chocolate,38.9644883,-77.0757384
+1013,cafe,Breadline,38.8996742,-77.0412032
+1014,cafe,Breadsoda,38.9199407,-77.0707758
+1015,cafe,Brookland Cafe,38.9358016,-76.9913039
+1016,cafe,Bulk Foods,38.7041148,-80.6665565
+1017,cafe,Bump ‘n Grind,38.9902467,-77.0296084
+1018,cafe,Buzz Bakery,38.8801218,-77.1080127
+1019,cafe,Cafe 8,38.8830374,-76.9947481
+1020,cafe,Cafe Aria,38.897517,-77.0438789
+1021,cafe,Cafe Berlin,38.8944479,-77.0009333
+1022,cafe,Cafe Bliss,37.4151867,-79.14238
+1023,cafe,Cafe Bonaparte,38.9094225,-77.0645771
+1024,cafe,Cafe Caturra,37.5727159,-77.5195842
+1025,cafe,Café Chocolat,38.900376,-77.0329694
+1026,cafe,Cafe Mozart,38.9005192,-77.0306698
+1027,cafe,Cafe Ole,37.540154,-77.4389006
+1028,cafe,Cafe Twelve,38.8841338,-77.0283375
+1029,cafe,Cafein,38.8966465,-77.4243
+1030,cafe,Caffe Amouri,38.9025184,-77.2657563
+1031,cafe,Calvino Italian Bar and Eatery,38.0302689,-78.4870983
+1032,cafe,Cameron Cafe,38.8093224,-77.1171854
+1033,cafe,Campono,38.8975518,-77.0551383
+1034,cafe,Capitol Grounds Cafe,38.9030084,-77.0387445
+1035,cafe,Cartwheels and Coffee,37.5521171,-77.4773859
+1036,cafe,Casa Rosada Artisan Gelato,38.8055155,-77.0537669
+1037,cafe,Casey's Coffee,38.8964756,-77.0508284
+1038,cafe,Ceremony Coffee,38.9792701,-76.5458692
+1039,cafe,Ceremony Coffee Roasters,38.9759714,-76.5125579
+1040,cafe,CF Folks,38.9066938,-77.0432067
+1041,cafe,Ching Ching Cha,38.9043824,-77.0625916
+1042,cafe,City Place Food & Co.,37.3594135,-79.2405295
+1043,cafe,Coffy Cafe,38.9307057,-77.0329676
+1044,cafe,Colada Shop,38.9157273,-77.0323692
+1045,cafe,Common Grounds,38.647862,-77.3381195
+1046,cafe,Compass Coffee,38.9079147,-77.0634594
+1047,cafe,Compass Coffee,38.9009677,-77.0415235
+1048,cafe,Compass Coffee,38.900387,-77.0397795
+1049,cafe,Compass Coffee,38.897158,-77.0212245
+1050,cafe,Compass Coffee,38.9448805,-77.0960094
+1051,cafe,Confetti,36.8424592,-76.135061
+1052,cafe,Cool Beans,37.7849627,-79.443593
+1053,cafe,Corner Bakery,38.9035809,-77.0431504
+1054,cafe,Corner Bakery,38.8963164,-77.009359
+1055,cafe,Cosi,38.8969268,-77.0705951
+1056,cafe,Cosi,38.8959682,-77.0262277
+1057,cafe,Cosi,38.8985573,-77.0275938
+1058,cafe,Cosi,38.958897,-77.0851901
+1059,cafe,CoworkCafe,38.8895471,-77.0911861
+1060,cafe,Crooked Road Cafe,36.7367067,-80.3824848
+1061,cafe,Culture Cafe,37.2739844,-76.7121963
+1062,cafe,Culture Coffee Too,38.9573492,-77.0025344
+1063,cafe,Daylight Donuts,37.0067502,-79.8741341
+1064,cafe,Dean & Deluca,38.9049054,-77.0650913
+1065,cafe,Deja Brew,38.7132124,-77.7945421
+1066,cafe,Demolition Coffee,37.2321568,-77.4007677
+1067,cafe,District Doughnut,38.9047316,-77.0669936
+1068,cafe,Dog Tag Bakery,38.9038625,-77.063145
+1069,cafe,Dolcezza,38.872485,-77.2295874
+1070,cafe,Dolcezza,38.8795977,-77.0253663
+1071,cafe,Dolcezza,38.9095019,-77.0322149
+1072,cafe,Dolci Gelati,38.9747791,-77.0123306
+1073,cafe,Donut Connection,38.2656022,-76.4557183
+1074,cafe,Dos Gringos,38.9294319,-77.0378104
+1075,cafe,Dublin 3 Coffee House,37.4146976,-79.1396792
+1076,cafe,Dunkin Donuts,37.9035557,-78.3426602
+1077,cafe,Dunkin' Donuts,37.7000098,-77.8878933
+1078,cafe,Dunkin' Donuts,38.8808229,-77.3984521
+1079,cafe,Dunkin' Donuts,38.9369271,-77.3630544
+1080,cafe,Dunkin' Donuts,38.6952099,-77.143636
+1081,cafe,Dunkin' Donuts,38.7207303,-77.152195
+1082,cafe,Dunkin' Donuts,38.9492391,-77.0805768
+1083,cafe,East St Cafe,38.8975216,-77.0057286
+1084,cafe,Edible Arrangements,38.6312431,-77.2749438
+1085,cafe,Einstein Bros. Bagels,38.9609559,-77.3565165
+1086,cafe,Einstein Bros. Bagels,38.9201061,-77.0710819
+1087,cafe,Ellipse Cafe,38.8979644,-77.0402279
+1088,cafe,Emissary,38.9094949,-77.0463837
+1089,cafe,Espressamente Illy,38.8480166,-77.0513719
+1090,cafe,Euro Cafe,38.8404979,-77.1153412
+1091,cafe,Feast!,38.0302659,-78.4869984
+1092,cafe,Firehook Bakery,38.9348842,-77.0577001
+1093,cafe,G Street Food,38.8981378,-77.0401773
+1094,cafe,Garden Cafe,38.8971986,-77.0475702
+1095,cafe,Georgetown Cafe,38.9110526,-77.0650134
+1096,cafe,Golf Park Coffee,37.4346474,-79.1667457
+1097,cafe,Gori Cafe,38.9182765,-77.0278523
+1098,cafe,Great Harvest Bread Company,38.713336,-77.2136384
+1099,cafe,Green Lizard Cycling and Cafe,38.9702797,-77.3852136
+1100,cafe,Greenberry's Coffee Company,38.9339723,-77.1807015
+1101,cafe,Greenhouse Coffee of Crozet,38.0705873,-78.7002401
+1102,cafe,Gregorys Coffee,38.9035914,-77.0437244
+1103,cafe,Gregorys Coffee,38.9028352,-77.0339183
+1104,cafe,Grit Coffee,38.0307648,-78.4820648
+1105,cafe,Grounded Coffee Shop,38.7686275,-77.1193278
+1106,cafe,Grounds Central Station,38.7515122,-77.4717643
+1107,cafe,Happy Creek Tea & Coffee,38.8620479,-77.7744027
+1108,cafe,Harbor Coffee,38.7846395,-77.0155764
+1109,cafe,Harrar Coffee and Roastery,38.9272677,-77.0232371
+1110,cafe,Heat da Spot,38.9304807,-77.0232817
+1111,cafe,High Grain Bread Company,38.7851841,-77.5162735
+1112,cafe,Holly Jo's Creekside Grill,37.1164324,-79.9560451
+1113,cafe,HoneyBaked Ham & Cafe,38.8537987,-77.3213199
+1114,cafe,Iceberry Frozen Yogurt,38.7795241,-77.1898127
+1115,cafe,Idego,37.2293908,-80.4146556
+1116,cafe,Iron Paffles & Coffee,38.0303744,-78.48325
+1117,cafe,Java House,38.9113017,-77.038081
+1118,cafe,Java Java Cafe,38.0300244,-78.4786899
+1119,cafe,Java Loco,38.8105235,-77.1335109
+1120,cafe,Java Shack,38.8907438,-77.0890278
+1121,cafe,Jetties,38.9112627,-77.0839776
+1122,cafe,Jirani Coffeehouse,38.7503952,-77.4728432
+1123,cafe,Kafe Bohem,38.9153988,-77.0201926
+1124,cafe,Kaldi's Social House,38.9914734,-77.0257027
+1125,cafe,Kaldi’s Social House,38.9915027,-77.0257356
+1126,cafe,Keren Restaurant,38.916743,-77.0412809
+1127,cafe,Killer ESP,38.8054847,-77.0508985
+1128,cafe,Kintsugi,38.9027862,-77.028303
+1129,cafe,Kline's Dairy Bar,38.4515507,-78.8671493
+1130,cafe,Kramerbooks & Afterwords Café,38.9108176,-77.043816
+1131,cafe,Kung Fu Tea,38.8875449,-77.0946921
+1132,cafe,KUNG FU TEA,38.9968592,-77.0257884
+1133,cafe,L'Hommage Bistro Francais Cafe,38.9023202,-77.0179931
+1134,cafe,La Colombe,38.9011779,-77.0399389
+1135,cafe,La Colombe,38.9065312,-77.0249181
+1136,cafe,La Colombe,38.920055,-77.0310329
+1137,cafe,La Madeleine,38.9607308,-77.3565473
+1138,cafe,La Madeleine,38.7722935,-77.136789
+1139,cafe,Ladurée,38.9050515,-77.0607733
+1140,cafe,Le Caprice DC Café Bakery,38.9326023,-77.0329847
+1141,cafe,Le Pain Quotidien,38.87356,-77.2303725
+1142,cafe,Le Pain Quotidien,38.8876008,-77.0933093
+1143,cafe,Le Pain Quotidien,38.8850365,-76.9963827
+1144,cafe,Le Pain Quotidien,38.9053956,-77.0575418
+1145,cafe,Le Pain Quotidien,38.9098064,-77.0451021
+1146,cafe,Le Pain Quotidien,38.9453478,-77.0965443
+1147,cafe,Leaves and Greens,38.9484126,-77.362188
+1148,cafe,Leopold's Kafe Konditorei,38.9047765,-77.066493
+1149,cafe,Lexington Coffee Shop,37.7853117,-79.4421401
+1150,cafe,Liberty Tree,38.9003965,-76.992008
+1151,cafe,Lift Coffee Shop,37.5471652,-77.4440682
+1152,cafe,Lincoln Park Bar & Wine,38.8894228,-76.9880373
+1153,cafe,Livin' The Pie Life,38.8970716,-77.1233571
+1154,cafe,Love & Faith Cafe,38.9211253,-77.0321319
+1155,cafe,M.E. Swing Coffee Co.,38.8208794,-77.0524995
+1156,cafe,M.E. Swing Coffee Roasters,38.8981378,-77.0400003
+1157,cafe,Main Street Cafe and Bakery,37.1098987,-79.2884427
+1158,cafe,Main Street Daily Grind,38.9175817,-78.19117
+1159,cafe,Maison Kayser,38.8975474,-77.0314256
+1160,cafe,Marvelous Market,38.9094762,-77.063973
+1161,cafe,Met Cafe,38.8975533,-77.0407727
+1162,cafe,Milk Bar,38.9105691,-77.0342025
+1163,cafe,Mill Mountain Coffee,37.2286709,-79.9814058
+1164,cafe,Mill Mountain Coffee and Tea,37.2717007,-79.9382636
+1165,cafe,Milli Joe Coffee & Gelato,38.0334838,-78.4842522
+1166,cafe,Millie's Living Cafe,37.3598412,-79.2410076
+1167,cafe,Miriam Cafeteria,38.9395324,-77.0324362
+1168,cafe,Mockingbird Cafe & Bakery,37.1293682,-80.4084264
+1169,cafe,Momo's Cafe,37.0851988,-76.4696021
+1170,cafe,Mon Amour,38.8956757,-77.0267235
+1171,cafe,Monkee Joe's,37.3638504,-79.2894916
+1172,cafe,Mudhouse,37.9998133,-78.4977399
+1173,cafe,Nature's Table Cafe,38.7846053,-77.0168199
+1174,cafe,New Deal Cafe,39.0013451,-76.8765288
+1175,cafe,"New Dynasty- Chinese, Halal",38.9094669,-77.0459244
+1176,cafe,New Heights,38.9237141,-77.0522459
+1177,cafe,Noorani Kabab House,37.6213141,-77.5270421
+1178,cafe,North End Juice Co.,37.5624956,-77.4769784
+1179,cafe,Olympia Cafe,38.9807184,-77.0711385
+1180,cafe,Open City,38.9237168,-77.0523657
+1181,cafe,Panera Bread,38.9582363,-77.356682
+1182,cafe,Panera Bread,38.8090127,-77.0861306
+1183,cafe,Panera Bread,38.9210439,-77.2358307
+1184,cafe,Paradox Pastry,38.0287971,-78.481229
+1185,cafe,Patisserie Poupon,38.9115909,-77.0653558
+1186,cafe,Peet's Coffee,38.8768949,-77.0046574
+1187,cafe,Peet's Coffee,38.9005017,-77.047871
+1188,cafe,Peet's Coffee,38.9149872,-77.0315579
+1189,cafe,Peet's Coffee,38.9862678,-77.0963592
+1190,cafe,Peet's Coffee,38.9929401,-77.0320279
+1191,cafe,Peet's Coffee & Tea (#614),38.9863696,-77.5369302
+1192,cafe,Peregrine Espresso,38.9132675,-77.0322335
+1193,cafe,Pete's Coffee & Tea,38.7480613,-77.0827802
+1194,cafe,Philz Coffee,38.923483,-77.043304
+1195,cafe,Pot Belly Sandwich Shop,38.8815594,-77.1122492
+1196,cafe,Potbelly,38.8990854,-77.0321733
+1197,cafe,Potbelly,38.894289,-77.0214179
+1198,cafe,Potbelly Sandwich Shop,38.903546,-77.0382479
+1199,cafe,Pound The Hill,38.8849549,-76.997658
+1200,cafe,Pronto,37.7844958,-79.4423715
+1201,cafe,Qualia Coffee,38.9391831,-77.0245821
+1202,cafe,Quartermaine,38.9810796,-77.0965256
+1203,cafe,Rappahanock Coffee,38.8632762,-77.0835865
+1204,cafe,Republik Coffee Bar,38.8806231,-77.1133651
+1205,cafe,Richmond on Broad Cafe,37.5420975,-77.4356305
+1206,cafe,Robek's,38.8537153,-77.3216772
+1207,cafe,Sabor Catering & Cafe,38.9654095,-77.0272779
+1208,cafe,Saxby's Coffee,38.907942,-77.0432131
+1209,cafe,Saxbys Coffee,38.9076209,-77.0692471
+1210,cafe,Sense of Place,38.8679421,-77.1170095
+1211,cafe,Shenandoah Joe,38.4482672,-78.8667063
+1212,cafe,Shenandoah Joe Coffee Roaster,38.0392045,-78.490836
+1213,cafe,Shilla Bakery & Cafe,38.8537692,-77.3214471
+1214,cafe,Shockoe Espresso & Roastery,37.5350318,-77.4342285
+1215,cafe,Sidamo Coffee and Tea,38.9000597,-76.9999029
+1216,cafe,Slipstream,38.908358,-77.0316959
+1217,cafe,Smoothie King,38.674648,-77.3355243
+1218,cafe,Soho Tea & Coffee,38.9094741,-77.0485968
+1219,cafe,South Block,38.832013,-77.0595131
+1220,cafe,South Block,38.9041886,-77.2610959
+1221,cafe,South Block,38.8859223,-77.161649
+1222,cafe,South Block,38.8863879,-77.0940606
+1223,cafe,South Block,38.8943704,-77.0759138
+1224,cafe,South Block,38.9038462,-77.0636423
+1225,cafe,South Block,38.8985413,-77.0503549
+1226,cafe,South Block,38.9086126,-76.9972966
+1227,cafe,Sova - Espresso & Wine,38.9000211,-76.9863759
+1228,cafe,Splendora's Gelato Cafe,38.030287,-78.479551
+1229,cafe,Starbucks,38.4221657,-82.4436433
+1230,cafe,Starbucks,37.1632803,-80.4226913
+1231,cafe,Starbucks,37.2355162,-80.4334692
+1232,cafe,Starbucks,37.2140252,-80.4008772
+1233,cafe,Starbucks,37.2284456,-80.4132969
+1234,cafe,Starbucks,37.3513082,-79.1837833
+1235,cafe,Starbucks,37.3932368,-79.2335321
+1236,cafe,Starbucks,37.5564863,-77.4708267
+1237,cafe,Starbucks,37.5642428,-77.4689967
+1238,cafe,Starbucks,36.7121841,-76.2764005
+1239,cafe,Starbucks,36.7784748,-76.2531062
+1240,cafe,Starbucks,36.7729379,-76.2341135
+1241,cafe,Starbucks,36.7751479,-76.2309659
+1242,cafe,Starbucks,36.8821109,-76.1995882
+1243,cafe,Starbucks,37.2761317,-76.7471032
+1244,cafe,Starbucks,38.0289178,-78.4437157
+1245,cafe,Starbucks,38.293809,-77.5182846
+1246,cafe,Starbucks,38.4858968,-77.9687158
+1247,cafe,Starbucks,38.7958623,-77.6092938
+1248,cafe,Starbucks,38.679742,-77.3624484
+1249,cafe,Starbucks,38.775361,-77.5020727
+1250,cafe,Starbucks,38.7631976,-77.4582994
+1251,cafe,Starbucks,38.8343362,-77.412983
+1252,cafe,Starbucks,38.9276312,-77.3753038
+1253,cafe,Starbucks,38.6464975,-77.3344936
+1254,cafe,Starbucks,38.6530123,-77.2860841
+1255,cafe,Starbucks,38.7401683,-77.2129761
+1256,cafe,Starbucks,38.7870681,-77.296898
+1257,cafe,Starbucks,38.7790766,-77.1898477
+1258,cafe,Starbucks,38.7752394,-77.1710602
+1259,cafe,Starbucks,38.8122042,-77.1841288
+1260,cafe,Starbucks,38.8048633,-77.1335235
+1261,cafe,Starbucks,38.8016392,-77.0720518
+1262,cafe,Starbucks,38.78413,-77.0170229
+1263,cafe,Starbucks,38.8111965,-77.0503722
+1264,cafe,Starbucks,38.8040945,-77.0401399
+1265,cafe,Starbucks,38.8435064,-77.0179048
+1266,cafe,Starbucks,38.884737,-77.1741411
+1267,cafe,Starbucks,38.9216092,-77.2362426
+1268,cafe,Starbucks,38.9026392,-77.2037437
+1269,cafe,Starbucks,38.8693745,-77.1516064
+1270,cafe,Starbucks,38.8804636,-77.1142142
+1271,cafe,Starbucks,38.8823431,-77.1165777
+1272,cafe,Starbucks,38.8813614,-77.1113779
+1273,cafe,Starbucks,38.8973237,-77.1382012
+1274,cafe,Starbucks,38.8984352,-77.1189272
+1275,cafe,Starbucks,38.8966362,-77.0965672
+1276,cafe,Starbucks,38.8636659,-77.0627807
+1277,cafe,Starbucks,38.849374,-77.0511114
+1278,cafe,Starbucks,38.8848009,-77.0154974
+1279,cafe,Starbucks,38.8836059,-76.9951971
+1280,cafe,Starbucks,38.899439,-77.0486349
+1281,cafe,Starbucks,38.8962245,-77.0446559
+1282,cafe,Starbucks,38.9003632,-77.0414663
+1283,cafe,Starbucks,38.9035359,-77.040776
+1284,cafe,Starbucks,38.9127589,-77.0455867
+1285,cafe,Starbucks,38.9354523,-77.0731262
+1286,cafe,Starbucks,38.9295977,-77.0553143
+1287,cafe,Starbucks,38.9250095,-77.0520718
+1288,cafe,Starbucks,38.9097949,-77.0331435
+1289,cafe,Starbucks,38.929498,-77.0325029
+1290,cafe,Starbucks,38.9881328,-77.0962281
+1291,cafe,Starbucks,38.9444744,-77.0642389
+1292,cafe,Starbucks,38.9940675,-77.0320365
+1293,cafe,Starbucks,38.9781606,-76.4921582
+1294,cafe,Starbucks Coffee,38.9512383,-77.4085917
+1295,cafe,Starbucks Coffee,38.9575502,-77.4008905
+1296,cafe,Starbucks Coffee,38.9197858,-77.0217178
+1297,cafe,Starbucks Coffee,38.9645823,-77.1076826
+1298,cafe,Starbucks Coffee Company,38.9965715,-77.2872097
+1299,cafe,Sugar & Twine,37.5524861,-77.4784283
+1300,cafe,Sugar Shack Donuts,37.520225,-77.6146235
+1301,cafe,Sweet Frog,37.3000701,-78.3930818
+1302,cafe,Sweet Shop Donuts Cafe,37.5161164,-77.7911028
+1303,cafe,SweetFrog,36.7624289,-76.0151921
+1304,cafe,Sylvan Cafe,38.9153462,-77.0125824
+1305,cafe,Takoma Beverage Company,38.9741537,-77.0123737
+1306,cafe,TASTE @ City Center,37.0857965,-76.4739446
+1307,cafe,Teaism,38.900385,-77.0386084
+1308,cafe,Teaism,38.9127576,-77.0459357
+1309,cafe,Teaism,38.8949554,-77.0231695
+1310,cafe,The Board and Brew - a board game cafe,38.9914096,-76.9340176
+1311,cafe,The By & By,38.1495762,-79.070604
+1312,cafe,The Cafe At The Corcoran,38.895966,-77.0397115
+1313,cafe,The Coffee Bar,38.9142677,-77.0282721
+1314,cafe,The Coffee Shoppe,36.835505,-76.2994992
+1315,cafe,The Daily Grind,38.9938628,-80.2302054
+1316,cafe,The Galleria,38.3030626,-77.4589937
+1317,cafe,The Juice Laundry,38.0357956,-78.4878463
+1318,cafe,The Kindred Cup Cafe & Bakery,38.961997,-77.0846047
+1319,cafe,The Koffee Cup,37.3153698,-79.2628311
+1320,cafe,The Lab by Alchemy Coffee,37.5500119,-77.4488636
+1321,cafe,The Light Well,38.2451622,-78.1105321
+1322,cafe,The Muse,37.3578546,-79.2407234
+1323,cafe,The Pit and the Peel,37.546032,-77.4555535
+1324,cafe,The Pretzel Bakery,38.885484,-76.9838365
+1325,cafe,The Southern Café & Music Hall,38.0306233,-78.4816808
+1326,cafe,The Urban Farmhouse Market and Café,37.5683708,-77.4690847
+1327,cafe,The White Hart,37.4121647,-79.1397114
+1328,cafe,The Wydown,38.9003937,-76.9973089
+1329,cafe,The Wydown,38.9164531,-77.032191
+1330,cafe,Third Wave Coffee,37.3662134,-79.2595909
+1331,cafe,Three Fifty Bakery & Coffee Bar,38.9166304,-77.0386838
+1332,cafe,Tivoli Gourmet & Pastry,38.881678,-77.1111588
+1333,cafe,Toy Town Soul Food,37.6125791,-79.0172096
+1334,cafe,Tropical Smoothie Cafe,37.5132937,-77.6937529
+1335,cafe,Tryst Coffeehouse,38.9219571,-77.0421523
+1336,cafe,Tudor's Biscuit World,37.2705851,-79.9417319
+1337,cafe,Tynan Coffee & Tea,38.9067067,-77.0056702
+1338,cafe,Tynan Coffee and Tea,38.9285884,-77.0333592
+1339,cafe,Uptowner Cafe,38.8064657,-77.0571498
+1340,cafe,Urban Farmhouse Market & Cafe,37.5353224,-77.434052
+1341,cafe,Vie De France,38.8859248,-77.0211086
+1342,cafe,Vigilante Coffee,38.9524045,-76.941109
+1343,cafe,Vint Hill Coffee,38.7436194,-77.6826709
+1344,cafe,Waffle Shop,38.840257,-77.0630459
+1345,cafe,WAPA cafe,38.965877,-77.0278512
+1346,cafe,West Wing Cafe,38.9052759,-77.0324906
+1347,cafe,Wisey's,38.9086573,-77.0641687
+1348,cafe,Woodburn Cafe,38.8539886,-77.224285
+1349,cafe,Woodley Park Pantry,38.9244481,-77.0545631
+1350,cafe,Woody's Grill,37.2416664,-81.1050931
+1351,cafe,Zeke's Sport Cafe,38.983251,-77.0261209
+1352,cafe,Zenobia Cafe,38.9033465,-77.06096
+1353,child development,Ana's Kids,38.8538792,-77.0551037
+1354,child development,APT-Arlington Public Schools,38.8643634,-77.0884744
+1355,child development,Arlington Children's Center,38.8960528,-77.0846925
+1356,child development,Ballston Children's Center,38.8802542,-77.105402
+1357,child development,Blue Bird Day School,38.8831534,-77.0871646
+1358,child development,Bright Horizons at Crystal City,38.8520954,-77.0492139
+1359,child development,Bright Horizons: Finding Dreams in Children,38.8842806,-77.1021989
+1360,child development,Bright Horizons: Rossyln,38.8944452,-77.0726363
+1361,child development,Bright Horizons: Virginia Hospital,38.8604106,-77.1269996
+1362,child development,Busy Bee Child Care Center,38.8534322,-77.0620267
+1363,child development,Chesterbrook Montessori,38.9136621,-77.1350124
+1364,child development,Chesterbrook Montessori School -Arlington Forest Campus,38.86829,-77.112206
+1365,child development,Children's House Montessori School,38.9013464,-77.126287
+1366,child development,Children's International,38.8697629,-77.1060751
+1367,child development,Children's International II,38.8886056,-77.0803998
+1368,child development,Clarendon Child Care Center,38.8875855,-77.0989468
+1369,child development,Crystal City Children's Center,38.8422531,-77.0506468
+1370,child development,Early Steps Bilingual Preschool,38.8929473,-77.0897199
+1371,child development,First Baptist Church of Clarendon Child Development,38.8889961,-77.0953225
+1372,child development,Full Circle Montessori at The Frederick,38.8864205,-77.0854072
+1373,child development,Full Circle Montessori Jordan,38.8799958,-77.1157356
+1374,child development,Full Circle Montessori School,38.8833662,-77.1146203
+1375,child development,Full Circle Montessori Westover,38.8841633,-77.1389762
+1376,child development,Funshine Preschool,38.8495803,-77.0857047
+1377,child development,Keshet Child Development Center,38.8530504,-77.0589304
+1378,child development,Kinder Care Learning Center/Knowledge Learning,38.8866087,-77.0982828
+1379,child development,Kinhaven School,38.8826771,-77.1109528
+1380,child development,Little Ambassadors' Academy,38.895953,-77.134406
+1381,child development,Little Ambassadors' Academy Cherrydale,38.8964924,-77.1041557
+1382,child development,Little Beginnings Child Development Center,38.8802364,-77.0970374
+1383,child development,Maria Teresa's Babies Early Enrichment Center,38.8534874,-77.060718
+1384,child development,Metta Montessori,38.8625079,-77.0851653
+1385,child development,National Science Foundation CDC,38.8805396,-77.1109854
+1386,child development,Northern Virginia Family Services Head Start,38.8909525,-77.1291701
+1387,child development,Northern Virginia Family Services: Arlington Early Head Start,38.877339,-77.1132195
+1388,child development,Northern Virginia Family Services: Arlington Mills,38.8563905,-77.1120861
+1389,child development,Rosslyn Children's Center,38.8955261,-77.0699221
+1390,child development,School of Children,38.847952,-77.082351
+1391,child development,Sparkles at Crystal City Child Care Center,38.8615918,-77.050745
+1392,child development,STEM Preschool,38.8364442,-77.095569
+1393,child development,"The Children's School, Inc.",38.8865867,-77.1418497
+1394,child development,The Merit School,38.8812076,-77.08518
+1395,library,Glencarlyn Library,38.8635994183824,-77.1259106695099
+1396,library,Central Library,38.8842820466882,-77.1068326197625
+1397,library,Plaza Library & Arlington Shop,38.8903606169644,-77.0858801141915
+1398,library,Cherrydale Library,38.8987195775821,-77.1092912526636
+1399,library,Shirlington Library,38.8410042999698,-77.0901381345737
+1400,library,Columbia Pike Library,38.8645267069401,-77.088175091562
+1401,library,Arlington Career Center,38.864099982254,-77.0884585724378
+1402,library,Westover Library,38.8862355111919,-77.142265001613
+1403,library,Aurora Hills Library,38.8574716481903,-77.0589949547398
+1404,school,Barrett Elementary School,38.8729409699175,-77.1120941170858
+1405,school,Jamestown Elementary School,38.9172461130671,-77.1396193978001
+1406,school,Kenmore Middle School,38.8654795893199,-77.1300962331033
+1407,school,Key Elementary School,38.89230365859,-77.0868966917661
+1408,school,Long Branch Elementary School,38.8750316850785,-77.0891952335871
+1409,school,McKinley Elementary School,38.8786326851546,-77.1467549145801
+1410,school,Nottingham Elementary School,38.9006348607044,-77.1509299772742
+1411,school,Oakridge Elementary School,38.850418282127,-77.0703891557473
+1412,school,Arlington Science Focus School,38.8901772215154,-77.1023677008718
+1413,school,Swanson Middle School,38.8831112247777,-77.1389841780439
+1414,school,Taylor Elementary School,38.9067640765871,-77.1137066143566
+1415,school,Tuckahoe Elementary School,38.8923151011734,-77.1591467615807
+1416,school,Claremont Elementary School,38.8476732307394,-77.1060078749494
+1417,school,Ashlawn Elementary School,38.8729109223802,-77.1358491006878
+1418,school,Williamsburg Middle School,38.9096941752561,-77.1468452364689
+1419,school,Yorktown High School,38.9028350999226,-77.1401280298228
+1420,school,Abingdon Elementary School,38.8396206680132,-77.0956634816193
+1421,school,Barcroft Elementary School,38.8615620916661,-77.1078149976478
+1422,school,Arlington Traditional School,38.8797881167829,-77.1218500585426
+1423,school,Randolph Elementary School,38.8563159517475,-77.0982220352864
+1424,school,Gunston Middle School,38.8480282218137,-77.069848203207
+1425,school,Washington-Lee High School,38.8874457198545,-77.1093655579076
+1426,school,Campbell Elementary School,38.8581312860806,-77.1258226459328
+1427,school,Carlin Springs Elementary School,38.8629620265533,-77.1319939565621
+1428,school,H-B Woodlawn Secondary Program,38.9002791951042,-77.1118245741367
+1429,school,Glebe Elementary School,38.8925671060023,-77.1214030851278
+1430,school,Patrick Henry Elementary School,38.8659268961494,-77.0892886553982
+1431,school,Jefferson Middle School,38.8700141124181,-77.0967799149958
+1432,school,Bishop O'Connell,38.894508273067,-77.1609792581642
+1433,school,Walter Reed Elementary School,38.8869582135769,-77.1417182485609
+1434,school,Drew Model School,38.8483673212732,-77.0868103125109
+1435,school,Hoffman-Boston Elementary School,38.8615529822453,-77.0717691895262
+1436,school,Wakefield High School,38.847803059279,-77.1118357623694
+1437,school,Discovery Elementary School,38.9083912692276,-77.1470136223204
+1438,school,Glenwood Elementary School,36.7733432653396,-76.139076992725
+1439,school,Creeds Elementary School,36.6371771560811,-76.0376335229469
+1440,school,Kingston Elementary School,36.8620007612736,-76.0947859412221
+1441,school,Providence Elementary School,36.8103808817327,-76.1547436049919
+1442,school,White Oaks Elementary School,36.803258254307,-76.1229538844786
+1443,school,Lynnhaven Elementary School,36.8345262389215,-76.0848047008115
+1444,school,Diamond Springs Elementary,36.8638936241143,-76.1558312527985
+1445,school,New Castle Elementary School,36.7659950536032,-76.1095792383192
+1446,school,Salem Elementary School,36.7732400070418,-76.1208599142462
+1447,school,Corporate Landing Elementary School,36.7874991625786,-76.0069663677554
+1448,school,Princess Anne Elementary School,36.7516985995962,-76.0328841722606
+1449,school,Point O'View Elementary School,36.8385328516839,-76.1704162485475
+1450,school,Newtown Elementary School,36.8617300941413,-76.1598512379495
+1451,school,King's Grant Elementary School,36.8539711387519,-76.0866197073172
+1452,school,Rosemont Elementary School,36.7982699362946,-76.1001020713606
+1453,school,Christopher Farms Elementary School,36.7680546681129,-76.0664393482085
+1454,school,North Landing Elementary School,36.7402465486421,-76.0735360200884
+1455,school,Shelton Park Elementary School,36.8985943519047,-76.1473106299207
+1456,school,Woodstock Elementary School,36.8138421659655,-76.2012109222886
+1457,school,Trantwood Elementary School,36.865755431422,-76.0500163886084
+1458,school,Malibu Elementary School,36.8470195995752,-76.0987833436252
+1459,school,Luxford Elementary School,36.8725787294563,-76.143129510364
+1460,school,Birdneck Elementary School,36.8087122218713,-75.9923866397272
+1461,school,Landstown Elementary School,36.7769348718341,-76.1059465770744
+1462,school,John B Dey Elementary School,36.897739269014,-76.0623466363505
+1463,school,Williams Elementary School,36.8640463165007,-76.163985450177
+1464,school,Indian Lakes Elementary School,36.7983387908176,-76.1459947965571
+1465,school,Three Oaks Elementary School,36.7538238578492,-76.013449338481
+1466,school,College Park Elementary School,36.805087089726,-76.2123294936293
+1467,school,Alanton Elementary School,36.8830960665671,-76.031226967411
+1468,school,Green Run Elementary School,36.7999260430157,-76.0907151087312
+1469,school,Pembroke Elementary School,36.8566918968681,-76.1364033620977
+1470,school,Hermitage Elementary School,36.8971280924844,-76.1404916713126
+1471,school,Red Mill Elementary School,36.7478869919352,-76.0004135242704
+1472,school,Bayside Elementary School,36.8952123204284,-76.1796825620444
+1473,school,Thalia Elementary School,36.8465416806654,-76.1216010791529
+1474,school,Pembroke Meadows Elementary School,36.8652060798674,-76.1282711294263
+1475,school,Windsor Oaks Elementary School,36.822792746933,-76.1026891780563
+1476,school,Parkway Elementary School,36.7981910442322,-76.1227636752003
+1477,school,Cooke Elementary School,36.8424039075079,-75.9798655592761
+1478,school,Kempsville Elementary School,36.822663284536,-76.1598070147863
+1479,school,Arrowhead Elementary School,36.8315568170633,-76.1864709914076
+1480,school,Windsor Woods Elementary School,36.8316427807406,-76.1032722116252
+1481,school,Kempsville Meadows Elementary School,36.8170941360733,-76.1422651343296
+1482,school,Ocean Lakes Elementary School,36.7849687563769,-75.991248154462
+1483,school,Seatack Elementary School,36.8124545877308,-75.9928224942182
+1484,school,Thoroughgood Elementary School,36.8902949083137,-76.1344236692476
+1485,school,Fairfield Elementary School,36.8163062284402,-76.1789624689194
+1486,school,Centerville Elementary School,36.7681380153573,-76.1899621608086
+1487,school,Holland Elementary School,36.8036634063424,-76.0876730107339
+1488,school,Tallwood Elementary School,36.7797175902096,-76.197030179126
+1489,school,Linkhorn Park Elementary School,36.8596320362986,-76.0276644205724
+1490,school,Rosemont Forest Elementary School,36.7832223778905,-76.1286198401482
+1491,school,Brookwood Elementary School,36.8193962444311,-76.0767328708597
+1492,school,Strawbridge Elementary School,36.7663055287625,-76.0183822437259
+1493,golf,Princess Anne Country Club,36.8643977290486,-75.9914795299365
+1494,golf,Bow Creek Golf Course,36.8197614205763,-76.0868230894908
+1495,golf,Heron Ridge Golf Club,36.7333033667767,-76.0317940603751
+1496,golf,Cypress Point Country Club,36.8766717941694,-76.164059738156
+1497,golf,The Signature at West Neck,36.7328905454956,-76.0613140435926
+1498,golf,Honey Bee Golf Club,36.777065917516,-76.1281809861824
+1499,golf,Eagle Haven Golf Course,36.9233378817749,-76.1504143810926
+1500,golf,Broad Bay Point Greens Country Club,36.8908050356959,-76.0484300033425
+1501,golf,Hell’s Point Golf Club,36.7426350128892,-75.9826512511418
+1502,golf,Cavalier Golf Course & Yacht Club,36.862507054985,-76.0040715898714
+1503,golf,Bayville Golf Course,36.9019808884166,-76.1113030963663
+1504,golf,Aeropines Golf Course,36.7977585718605,-76.0311813078417
+1505,golf,Redwing Lake Golf Course,36.7971696877054,-75.9801585492976
+1506,golf,Stumpy Lake Golf Course,36.7729270213414,-76.1599205887877
+1507,golf,Virginia Beach National Golf Course,36.7593772639962,-76.0745850708806
+1508,golf,Kempsville Greens Municipal Golf Course,36.8201625121461,-76.1485423495326
+1509,golf,Owl's Creek Golf Course,36.8282111524462,-75.997774121252
+1510,school,Green Run High School,36.8046855070244,-76.1115594791416
+1511,school,Landstown High School,36.7802043488997,-76.1009291161067
+1512,school,Princess Anne High School,36.8442094227133,-76.128457185793
+1513,school,Bayside High School,36.869788258452,-76.1506118739112
+1514,school,Floyd E. Kellam High School,36.7449976107464,-76.061471666484
+1515,school,Salem High School,36.7828022750553,-76.1435257716088
+1516,school,Tallwood High School,36.7847988860411,-76.1814192615084
+1517,school,Renaissance Academy,36.8434246627037,-76.159477968186
+1518,school,Kempsville High School,36.820504142199,-76.157083183606
+1519,school,Ocean Lakes High School,36.7715407677339,-75.9814577916762
+1520,school,First Colonial High School,36.8734155379938,-76.0291022146088
+1521,school,Cox High School,36.8873836638746,-76.0518441026821
+1522,library,Joint Use Library,36.786088632417,-76.0957674979938
+1523,library,Pungo Blackwater Library,36.636697171834,-76.0381223043779
+1524,library,Windsor Woods Area Library,36.8303621349867,-76.097055824045
+1525,library,Oceanfront Area Library,36.8444536370198,-75.9835582450499
+1526,library,Kempsville Area Library,36.8159183312221,-76.1630957802792
+1527,library,Central Library,36.8435939213304,-76.1167020008682
+1528,library,Bayside Library/Special Services Library,36.8690091064287,-76.1327837147464
+1529,library,Princess Anne Area Library,36.764393246085,-76.021908586662
+1530,library,Great Neck Area Library,36.8656886534821,-76.0356461396197
+1531,school,Bayside Sixth Grade Campus,36.8577310392737,-76.1381184732489
+1532,school,Salem Middle School,36.78592547983,-76.1459842054199
+1533,school,Brandon Middle School,36.7923039421565,-76.1919747382864
+1534,school,Plaza Middle School,36.8302324330186,-76.0776387984676
+1535,school,Virginia Beach Middle School,36.8510716606709,-75.9858107239125
+1536,school,Independence Middle School,36.8814549121855,-76.1246185085141
+1537,school,Corporate Landing Middle School,36.7873357050796,-76.0113914715399
+1538,school,Larkspur Middle School,36.815397478038,-76.1415126245993
+1539,school,Landstown Middle School,36.7772055476063,-76.1037508474833
+1540,school,Great Neck Middle School,36.8967838349149,-76.0601419775055
+1541,school,Lynnhaven Middle School,36.8674962138967,-76.0362131643119
+1542,school,Kempsville Middle School,36.8125823665096,-76.154943974216
+1543,school,Bayside Middle School,36.8674277464349,-76.1597557919505
+1544,school,Old Donation School,36.8703006392578,-76.1355325020236
+1545,school,Princess Anne Middle School,36.7585439506298,-76.0545742346458
+1546,museum,Aquarium - South Building,36.815610242587,-75.9884808780596
+1547,museum,Buffington House (Vacant),36.7468763156715,-76.0545148973281
+1548,museum,Adam Thoroughgood House,36.8935545929703,-76.1132998940377
+1549,museum,Old Coast Guard Station,36.8522267969501,-75.9756026499094
+1550,museum,DeWitt Cottage/Atlantic Wildfowl Heritage Museum,36.8404620372537,-75.9724656458007
+1551,museum,Virginia Aquarium and Marine Science Center,36.8209354362053,-75.983728304218
+1552,museum,Contemporary Art Center of Virginia,36.8486789769438,-75.9875285614505
+1553,museum,Francis Land House,36.8421035014207,-76.079347308798
+1554,museum,Ferry Plantation House,36.8618950379687,-76.1180499624779
+1555,museum,Lynnhaven House,36.8733477348113,-76.1269754731223
+1556,museum,Upper Wolfsnare,36.8407255875574,-76.0387141297584
+1557,park,Oceana Neighborhood Park,36.8417097622087,-76.02289911401
+1558,park,Red Mill Farms Park,36.7485922960808,-76.0036634475086
+1559,park,Great Neck Park,36.8836714436976,-76.0593493157769
+1560,park,Bayville Farms Park,36.9025676461819,-76.1199698095638
+1561,park,City View Park,36.7770266163547,-76.1996039880606
+1562,park,Princess Anne Commons Gateway Park,36.7760430410465,-76.0933279665328
+1563,park,24th Street Park,36.8525248932451,-75.975654895028
+1564,park,Beach Garden Park,36.8563654731965,-75.9855314601485
+1565,park,Mount Trashmore Park,36.8313268440866,-76.1224103525277
+1566,park,Little Island Park,36.6926186148015,-75.9233149709188
+1567,park,Woodstock Park,36.8115878741867,-76.1923851704548
+1568,park,Red Wing Park,36.7906838232095,-75.9880692250807
+1569,park,Lynnhaven Park,36.8664344305944,-76.0335198677664
+1570,park,First Landing State Park,36.9127146696269,-76.0271018281678
+1571,park,64th Street First Landing State Park,36.8886941605412,-75.9981499619939
+1572,park,False Cape State Park,36.5871388769087,-75.8864438213047
+1573,park,MacKay Island Wildlife Refuge,36.5530902614815,-75.9413551513552
+1574,park,Back Bay National Wildlife Refuge,36.6816327532387,-75.9187262102591
+1575,park,Plaza Northgate Park,36.8142758305168,-76.0926907052636
+1576,park,Creeds Wayside Park,36.5973192538184,-76.0214057825294
+1577,park,Pungo Ferry Landing Park,36.6174628544595,-76.0465357833951
+1578,park,Grommet Island Park,36.8305622807997,-75.9692478561984
+1579,park,Hillier Ignite Fitness Park,36.8644250354821,-75.9785142900695
+1580,park,Kempes Landing Park,36.8248640874546,-76.1602680472581
+1581,park,Lake Lawson / Lake Smith Natural Area,36.8918230889733,-76.1641741305227
+1582,park,Marshview Park - In Development,36.834513797607,-75.9905686840524
+1583,park,Munden Point Park,36.5837741604507,-76.0365672586373
+1584,park,Pleasure House Point Natural Area,36.9040785617141,-76.0991367731973
+1585,park,Providence Park,36.8115555590683,-76.1975891773711
+1586,park,West Neck Creek Natural Area,36.7474372289259,-76.0519584339633
+1587,park,Williams Farm Park,36.8616608884082,-76.1575126205326
+1588,park,Strawbridge East Park,36.7716367785973,-76.0141452938743
+1589,park,Alexandria Park,36.7713878964484,-76.1941666545291
+1590,park,Bay Colony Park,36.8749683417395,-75.9977543187899
+1591,park,Bellamy Plantation Park,36.7842592836526,-76.1275459203957
+1592,park,Bellamy Plantation East Park,36.7838581234318,-76.1354488787521
+1593,park,Bellamy Woods Park,36.7995819437966,-76.1364497394209
+1594,park,Bellwood Estates Park,36.7662367310891,-76.1282726511723
+1595,park,Birchwood - Malibu Park,36.8510354525123,-76.1001154948858
+1596,park,Birchwood South Park,36.8428310399669,-76.1047319353343
+1597,park,Blackwater Park,36.6200572532268,-76.1099713502458
+1598,park,Box Elder Arch Park,36.7761694458264,-75.9874062468414
+1599,park,Bow Creek Neighborhood Park,36.8235823157585,-76.091388095101
+1600,park,Princess Anne Quarter,36.7596242448493,-76.0479361275656
+1601,park,Centerville Park,36.7744303328764,-76.1907495637996
+1602,park,Brigadoon Park,36.7824584831174,-76.1722995252182
+1603,park,Brigadoon Pines Park,36.7849291311983,-76.1634344846672
+1604,park,Brigadoon Woods Park,36.7791216644475,-76.1789572524025
+1605,park,Brighton On The Bay/Linkhorn C,36.8717997790846,-76.026280941373
+1606,park,Brill Field Park,36.8622781252355,-76.0926518216865
+1607,park,Buyrn Farms Park,36.7683938536927,-76.0573310582516
+1608,park,Cape Story Park,36.9122533094506,-76.0622450530615
+1609,park,Cardinal Estates Park,36.7969386503622,-76.0719456373195
+1610,park,Carolanne Park,36.827039696102,-76.1702626294474
+1611,park,Cedar Hill Park,36.8069547357527,-76.1861815335618
+1612,park,Champion Oaks Park,36.7714261362454,-76.1222663238416
+1613,park,Charlestown Athletic Community Park,36.7709166456188,-76.1827207766247
+1614,park,Charlestown East Park,36.7806988052051,-76.1798881172426
+1615,park,Charlestown Lakes South Park,36.7639377334237,-76.1775217104425
+1616,park,Charlestown Lakes South Park West,36.7648413739812,-76.1797964801005
+1617,park,Chatham Hall Park,36.8097059755127,-76.1724677042124
+1618,park,Chelsea/Greenhill Park,36.8947608928686,-76.0556117591546
+1619,park,Colonial Oaks Park,36.8689137199869,-76.044174884166
+1620,park,Coventry Park,36.7875090849099,-76.1421874848548
+1621,park,Northridge Park,36.8511963465409,-76.1599268940627
+1622,park,Creeds Ath. Airfield Park,36.6087100906893,-76.0109776006205
+1623,park,Croatan Beach Park,36.8252943365265,-75.9681654428749
+1624,park,Cypress Point North Park,36.8728219922152,-76.1691962869843
+1625,park,Deerwood Trace Park,36.8501680869171,-76.0549600403991
+1626,park,Diamond Springs Park,36.9008897797769,-76.1688486425627
+1627,park,Doyle Way Park,36.8364738505735,-76.0732831362511
+1628,park,Dunbarton Park,36.8055476451128,-76.1375334966241
+1629,park,Eureka Park,36.8394656511938,-76.0619362535893
+1630,park,Fairfield Park,36.817910993251,-76.1724935271836
+1631,park,Fairfield Forest Park,36.8221082947678,-76.1806024315054
+1632,park,Fox Fire Park,36.7411830420097,-76.0402993022986
+1633,park,Grand Lakes Park,36.8528421950537,-76.1634466945685
+1634,park,Gloucester Park,36.8567531574405,-76.0345359656589
+1635,park,Great Neck Farms Park,36.8710628382989,-76.039904836786
+1636,park,Great Neck Meadows Park,36.8623947761914,-76.0339359566262
+1637,park,Broad Bay Estates Park,36.8883937266014,-76.0587268506586
+1638,park,Green Run Park,36.7971569935853,-76.114149411039
+1639,park,Groveland Park,36.8462115797364,-76.0819593284715
+1640,park,Haygood Point Park,36.8775467820335,-76.148171575289
+1641,park,Hermitage Park,36.8947495634117,-76.1402555751913
+1642,park,Holland Oaks Park,36.7756577079462,-76.0683697927198
+1643,park,Brigand'S Quay Park,36.7832463764203,-76.0839851596929
+1644,park,Holland Woods Park,36.7654835601298,-76.05365004339
+1645,park,Holly Green Park,36.81423429095,-76.0943852719442
+1646,park,Hunt Club Forest Park,36.7661716653388,-76.0200306648487
+1647,park,Hunt Club Park,36.768590590831,-76.0276466833371
+1648,park,Hunters Run Park,36.7641284196974,-76.0278345776569
+1649,park,Kempsville Park,36.8152033544125,-76.1629689489408
+1650,park,Kenstock Park,36.8514321864933,-76.0545641968709
+1651,park,Kings Grant West Park,36.8604162921371,-76.1039380995076
+1652,park,Lagomar Park,36.7427727836837,-75.9839718365933
+1653,park,Lake Edward North Park,36.866411962348,-76.1735113687061
+1654,park,Lake Edward Park,36.8646377793885,-76.1712496848069
+1655,park,Lake Placid Park,36.7820212971268,-76.0495592359604
+1656,park,Lakeview Shores Park,36.8870028522293,-76.1432108258635
+1657,park,Lamplight Manor Park,36.810008615402,-76.0695705707601
+1658,park,Landstown Lakes Park,36.7796169220663,-76.0807761439361
+1659,park,Landstown Meadows Park,36.7730327064254,-76.0705942926545
+1660,park,Landstown Meadows West Park,36.7741509248968,-76.0834820716928
+1661,park,Larkspur Greens Park,36.8142209890784,-76.1284210968747
+1662,park,Laurel Cove Park,36.8741990702858,-76.0447700548726
+1663,park,Lawson Hall Park,36.8783447892726,-76.1754168786801
+1664,park,Lecove Park,36.8285735987532,-76.2196096760504
+1665,park,The Lakes East,36.8088538383341,-76.0856770215462
+1666,park,Lark Downs Park,36.8160609828879,-76.1508167535763
+1667,park,Level Green Park,36.8065363791995,-76.2042340811047
+1668,park,Liberty Ridge Park,36.8191544095421,-76.1069714515073
+1669,park,Lineberry Park,36.8248546869781,-76.0984939477631
+1670,park,Little Neck Park,36.8770056582784,-76.0987361326654
+1671,park,Lock Haven Park,36.9057476082077,-76.0983522052894
+1672,park,London Bridge Park,36.8486983075847,-76.0490025634535
+1673,park,Lotus Garden Park,36.7310357715635,-75.9845611107584
+1674,park,Lynbrook Landing Park,36.8599236694994,-76.1594241689819
+1675,park,Lynnhaven Colony Park,36.9091687171168,-76.080115627979
+1676,park,Lynnhaven Woods Park,36.8369549181915,-76.0788978610001
+1677,park,Malbon Acres Park,36.7717980245089,-76.0046275931334
+1678,park,Margate Avenue Park,36.8614140783853,-76.1855398651577
+1679,park,Middle Oaks Plantation Park,36.7703290993971,-76.0227200788756
+1680,park,Middle Plantation/Bishop'S Gate Park,36.8652239976843,-76.0833889334658
+1681,park,Newcastle Park,36.7661597699066,-76.1169504407398
+1682,park,Newlight Park,36.8050018651087,-76.1811829938089
+1683,park,Newsome Farms Park,36.8596326213601,-76.1667127802953
+1684,park,Oak Springs Park,36.8069929944843,-76.0968540777035
+1685,park,Lagomar North Park,36.7605800122418,-75.9834171206171
+1686,park,Ocean Lakes East Park,36.7667615526829,-76.0016166918293
+1687,park,Ocean Lakes North Park,36.7717509262168,-75.997859113556
+1688,park,Oceana Village Park,36.8389660139719,-76.0268758416867
+1689,park,Parliament Village Park,36.8341422087452,-76.169820590954
+1690,park,Pecan Gardens Park,36.8149217132232,-76.1015777266913
+1691,park,Pembroke Meadows Wayside Park,36.8627164298422,-76.123085602652
+1692,park,Pine Meadows West Park,36.7818837853229,-75.9835673225259
+1693,park,Pine Meadows Place Park,36.7836832460534,-75.9836308998918
+1694,park,Pine Ridge Park,36.7731450588195,-76.0333635986362
+1695,park,Pinewood Gardens Park,36.8376839846088,-76.0717599789065
+1696,park,Plaza Park,36.8347074775279,-76.0873586300288
+1697,park,Point O'Woods Park,36.8490815918291,-76.0440544847651
+1698,park,Princess Anne Crossing Park,36.7607623427717,-76.060735013815
+1699,park,Queen City Park,36.8134629116258,-76.2204467648597
+1700,park,Raleigh Square Park,36.8811738433218,-76.1764093913049
+1701,park,Woods Of Avalon,36.8268507044341,-76.1883651601511
+1702,park,Red Mill Farms North Park,36.7640576367247,-76.0036661370646
+1703,park,Red Wing On The Park,36.7894209183416,-76.0018724242244
+1704,park,Romney Lane Park,36.8642840831814,-76.1426824404066
+1705,park,Rosemont Forest Park,36.7908098391091,-76.1498385591988
+1706,park,Rosemont Forest West Park,36.7795500976978,-76.1557230085017
+1707,park,Rosemont Forest East Park,36.7869475107373,-76.1438802620913
+1708,park,Salem Lakes Park,36.7738359231249,-76.1164588745315
+1709,park,Salem Lakes South Park,36.7701165774819,-76.1212591713726
+1710,park,Salem Park,36.7768963440963,-76.1122279865114
+1711,park,Salem Village Park,36.7827870424199,-76.1128024187114
+1712,park,Fox Fire East Park,36.7422782570141,-76.0409113828922
+1713,park,Salt Marsh Point Park,36.836080334736,-75.9923589752097
+1714,park,Sandbridge Beach Park,36.7463534836193,-75.9439758936701
+1715,park,Saw Pen Point Park,36.8681650679666,-76.1197445237687
+1716,park,Scarborough Square Park,36.8009763807956,-76.079558581773
+1717,park,Scarborough Square East Park,36.7998722673869,-76.0774494461821
+1718,park,Scarborough Square North Park,36.8017770683478,-76.0764503444146
+1719,park,Seabridge Square Park,36.8398913614765,-75.9909053681294
+1720,park,Seatack Park,36.8304959092797,-75.9965019064854
+1721,park,Seatack North Park,36.8460769947189,-76.0016474546362
+1722,park,Southall Quarter Park,36.8571008522528,-76.0239278377239
+1723,park,Southgate Park,36.760217573701,-76.0251485475837
+1724,park,Southgate West Park,36.7556450637365,-76.0323673256636
+1725,park,Stoneybrook Park,36.8132455498326,-76.1865183559793
+1726,park,Stratford Chase Park,36.8117123849326,-76.1646120610203
+1727,park,Strawbridge North Park,36.7716940970838,-76.0178308542113
+1728,park,Strawbridge Park,36.770173003375,-76.0197914488784
+1729,park,Sunstream Park,36.7840403065185,-76.1201800701375
+1730,park,Oceana Gardens Park,36.8406482626533,-76.0135126301826
+1731,park,Thalia Park,36.8468132361926,-76.1196374697396
+1732,park,Thalia Trace Park,36.8362088325817,-76.1110811451175
+1733,park,Upton Estates North Park,36.7817539810677,-75.9957717666022
+1734,park,Upton Estates Park,36.7784107496545,-75.9969092232965
+1735,park,Old Beach Park,36.8523739755998,-75.9856622512606
+1736,park,Rolling Woods Park,36.7658151304425,-76.0495157476191
+1737,park,Wesleyan Park,36.8799434575189,-76.1767365613246
+1738,park,Whitehurst Grove Park,36.8076386653247,-76.1811724574689
+1739,park,Windsor Oaks West Park,36.8224692383045,-76.1120799495425
+1740,park,Witchduck Landing Park,36.8590536468995,-76.1516608510414
+1741,park,Wolfsnare Park,36.8571724074683,-76.0529685841104
+1742,park,Wood Of Piney Grove Park,36.7703690933569,-76.0700093627421
+1743,park,Woodstock Cove Park,36.8207198035287,-76.2004755092947
+1744,park,Wyndamere Park,36.7719488139727,-76.1270889186646
+1745,park,Hillcrest Farms Park,36.7615270719474,-76.1356591078848
+1746,park,Buckner Farms Park,36.7907476106509,-76.0957846019168
+1747,park,Sawyer Lakes Estates Park,36.7628419567862,-75.9939925337061
+1748,park,Litchfield Manor Park,36.7614275285127,-76.0477439051628
+1749,park,The Lakes Park,36.8118216448799,-76.0912702576953
+1750,park,Lagomar At Back Bay Park,36.753220049669,-75.9786987806727
+1751,park,Hunts Pointe Park,36.8278660938672,-76.2042354788833
+1752,park,Highlands Meadows Park,36.7551270402158,-76.1131679378107
+1753,park,Chesapeake Beach Park,36.9181659549494,-76.1317338734368
+1754,park,Pembroke Meadows Park,36.8661607843967,-76.1271788759571
+1755,park,Princess Anne Wildlife Management Area HQ,36.5906559414715,-75.993341442873
+1756,park,31st Street Park,36.8595274934975,-75.9777496117603

@@ -1,0 +1,184 @@
+﻿OBJECTID,ID,ParkName,Ownership,Acreage,LocationDescription,AddressNumber,Street,Installed,Replaced,Retired,cgGeoSyncDate
+1,268,Belvedere Park,Private Open Space,0.13194038,Belvedere Park,,,,,,2019-02-14T02:49:05.000Z
+2,165,Windy Run Park,Arlington County Park,15.06137939,Windy Run Park,2420,N KENMORE ST,,,,2019-02-14T02:49:05.000Z
+3,221,Oak Grove Park,Arlington County Park,3.40167559,Oak Grove Park,4012,17th ST N,,,,2019-02-14T02:49:05.000Z
+4,218,18th Street North and North Lincoln Street Park,Arlington County Park,0.12184198,18th Street North and North Lincoln Street Park,,,,,,2019-02-14T02:49:05.000Z
+5,222,Mary Carlin Woods at Bluemont Park,Arlington County Park,6.56344544,Mary Carlin Woods at Bluemont Park,341,N KENSINGTON ST,,,,2019-02-14T02:49:05.000Z
+6,126,Beaver Pond Park,Arlington County Park,6.67453526,Beaver Pond Park,4747,FAIRFAX DR,,,,2019-02-14T02:49:05.000Z
+7,202,Woodlawn Park,Arlington County Park,3.23596971,Woodlawn Park,1325,N BUCHANAN ST,,,,2019-02-14T02:49:05.000Z
+8,149,Towers Park,Arlington County Park,5.16872638,Towers Park,801,S SCOTT ST,2018-08-08T00:00:00.000Z,2018-10-23T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+9,195,Bluemont Junction Park,Arlington County Park,23.59408547,Bluemont Junction Park,747,N EMERSON ST,2018-01-03T00:00:00.000Z,2018-01-03T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+10,145,Gulf Branch Nature Center,Arlington County Park,27.00149628,Gulf Branch Nature Center,3608,MILITARY RD,,,,2019-02-14T02:49:05.000Z
+11,182,Isaac Crossman Park at Four Mile Run,Arlington County Park,2.84136806,Isaac Crossman Park at Four Mile Run,1900,N WESTMORELAND ST,,,,2019-02-14T02:49:05.000Z
+12,241,18th Street North and North Quantico Street Park,Arlington County Park,0.13675398,18th Street North and North Quantico Street Park,6276,18th ST N,,,,2019-02-14T02:49:05.000Z
+13,189,Fort Reynolds Park,Arlington County Park,0.79992628,Fort Reynolds Park,4585,31st ST S,,,,2019-02-14T02:49:05.000Z
+14,269,North Meade Street Park,Arlington County Park,0.42241928,North Meade Street Park,1550,N MEADE ST,,,,2019-02-14T02:49:05.000Z
+15,156,Donaldson Run Park,Arlington County Park,29.82242225,Donaldson Run Park,4020,30th ST N,,,,2019-02-14T02:49:05.000Z
+16,253,Lyon Park,Private Open Space,1.95600734,Lyon Park,,,,,,2019-02-14T02:49:05.000Z
+17,237,Long Bridge Park,Arlington County Park,36.37224035,Long Bridge Park,475,LONG BRIDGE DR,2018-02-28T00:00:00.000Z,2018-04-10T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+18,168,Fort Bennett Park and Palisades Trail,Arlington County Park,10.54410741,Fort Bennett Park and Palisades Trail,2220,N SCOTT ST,,,,2019-02-14T02:49:05.000Z
+19,194,23rd Street South and South Eads Street Park,Arlington County Park,0.06818223,23rd Street South and South Eads Street Park,501,23rd ST S,,,,2019-02-14T02:49:05.000Z
+20,132,Foxcroft Heights Park,Arlington County Park,0.15452345,Foxcroft Heights Park,801,S OAK ST,,,,2019-02-14T02:49:05.000Z
+21,153,Fort Barnard Heights Park,Arlington County Park,0.64949932,Fort Barnard Heights Park,2452,S OAKLAND ST,,,,2019-02-14T02:49:05.000Z
+22,217,Nina Park,Arlington County Park,0.29270178,Nina Park,800,24th ST S,,,,2019-02-14T02:49:05.000Z
+23,204,Fillmore Park,Arlington County Park,5.14326919,Fillmore Park,33,N FILLMORE ST,,,,2019-02-14T02:49:05.000Z
+24,254,Nature Conservancy Public Access Easement,Private Open Space,0.77132784,Nature Conservancy Public Access Easement,,,,,,2019-02-14T02:49:05.000Z
+25,200,Glebe and Randolph Park,Arlington County Park,0.64718676,Glebe and Randolph Park,615,N GLEBE RD,,,,2019-02-14T02:49:05.000Z
+26,259,Prospect Hill Park,Private Open Space,0.47025981,Prospect Hill Park,,,,,,2019-02-14T02:49:05.000Z
+27,104,Gum Ball Park,Arlington County Park,0.31498239,Gum Ball Park,3715,7th ST N,,,,2019-02-14T02:49:05.000Z
+28,287,Fort Barnard Dog Park,Arlington County DES,0.54106642,,,,,,,2019-02-14T02:49:05.000Z
+29,286,Fort Barnard Community Garden,Arlington County DES,1.62846167,,,,,,,2019-02-14T02:49:05.000Z
+30,260,Metropolitan Park,,1.53640818,,,,,,,2019-02-14T02:49:05.000Z
+31,255,Virginia Square Metro Plaza,Private Open Space,0.44986064,Virginia Square Metro Plaza,,,,,,2019-02-14T02:49:05.000Z
+32,192,19th Road South Park,Arlington County Park,0.60546258,19th Road South Park,1344,19th RD S,,,,2019-02-14T02:49:05.000Z
+33,119,Westover Park,Arlington County Park,3.8642401,Westover Park,1001,N KENNEBEC ST,2018-02-06T00:00:00.000Z,2018-06-15T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+34,164,Zachary Taylor Park,Arlington County Park,22.28878082,Zachary Taylor Park,2900,MILITARY RD,,,,2019-02-14T02:49:05.000Z
+35,184,Lucky Run Park,Arlington County Park,3.30947008,Lucky Run Park,2620,S WALTER REED DR,,,,2019-02-14T02:49:05.000Z
+36,190,Shirlington Park,Arlington County Park,5.14366186,Shirlington Park,2601,S ARLINGTON MILL DR,2019-01-11T00:00:00.000Z,2019-01-11T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+37,193,Eads Park,Arlington County Park,4.39166808,Eads Park,2730,S EADS ST,,,,2019-02-14T02:49:05.000Z
+38,142,Broyhill Forest Park,Arlington County Park,0.49947799,Broyhill Forest Park,3510,N UTAH ST,,,,2019-02-14T02:49:05.000Z
+39,148,Swanson Middle School,Arlington County Park,1.16876637,Swanson Middle School,5800,WASHINGTON BLVD,,,,2019-02-14T02:49:05.000Z
+40,209,Parkhurst Park,Arlington County Park,3.42240173,Parkhurst Park,5820,20th RD N,2018-01-16T00:00:00.000Z,2018-01-30T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+41,107,Andrew Ellicott Park at the West Cornerstone,Arlington County Park,0.17486316,Andrew Ellicott Park at the West Cornerstone,2824,N ARIZONA ST,,,,2019-02-14T02:49:05.000Z
+42,122,Arlington Forest Park,Arlington County Park,1.04392673,Arlington Forest Park,4801,ARLINGTON BLVD,2018-10-03T00:00:00.000Z,2018-10-03T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+43,139,Walter Reed Community Center,Arlington County Park,6.91882952,Walter Reed Community Center,2909,16th ST S,,,,2019-02-14T02:49:05.000Z
+44,265,Gateway Park,Private Open Space,3.69126838,Gateway Park,,,,,,2019-02-14T02:49:05.000Z
+45,225,Lang Street Community Gardens,Arlington County Park,1.41071061,Lang Street Community Gardens,2815,S LANG ST,,,,2019-02-14T02:49:05.000Z
+46,138,Cherrydale Park,Arlington County Park,0.90233051,Cherrydale Park,2176,N POLLARD ST,,,,2019-02-14T02:49:05.000Z
+47,154,21st Street North and North Potomac Street Park,Arlington County Park,0.21442649,21st Street North and North Potomac Street Park,2001,N POTOMAC ST,,,,2019-02-14T02:49:05.000Z
+48,263,Clarendon and North Danville Easement,Private Open Space,0.01233303,Clarendon and North Danville Easement,2751,11th ST N,,,,2019-02-14T02:49:05.000Z
+49,134,Fort Scott Park,Arlington County Park,11.31199786,Fort Scott Park,2800,FORT SCOTT DR,2018-01-03T00:00:00.000Z,2018-01-03T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+50,144,Edison Park,Arlington County Park,0.39315411,Edison Park,213,N EDISON ST,,,,2019-02-14T02:49:05.000Z
+51,252,Ellipse Arts Center,Private Open Space,0.89631877,Ellipse Arts Center,,,,,,2019-02-14T02:49:05.000Z
+53,120,Utah Park,Arlington County Park,4.21705685,Utah Park,3191,S UTAH ST,,,,2019-02-14T02:49:05.000Z
+54,160,Halls Hill/High View Park,Arlington County Park,0.48279096,Halls Hill/High View Park,4998,LEE HWY,,,,2019-02-14T02:49:05.000Z
+55,206,James Hunter Park,Arlington County Park,0.7540325,James Hunter Park,1230,N HARTFORD ST,,,,2019-02-14T02:49:05.000Z
+56,274,Rosslyn Plaza,Private Open Space,0.27759786,Private Open Space,,N KENT ST,,,,2019-02-14T02:49:05.000Z
+57,111,Gunston Park,Arlington County Park,6.23103517,Gunston Park,1401,28th ST S,2018-04-05T00:00:00.000Z,2018-04-05T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+58,239,Carlin Hall Community Center,Arlington County Park,0.2616229,Carlin Hall Community Center,5711,4th ST S,,,,2019-02-14T02:49:05.000Z
+59,196,Nauck Park,Arlington County Park,0.56017837,Nauck Park,2551,19th ST S,,,,2019-02-14T02:49:05.000Z
+60,228,Kirkwood Road Neighborhood Park,Arlington County Park,0.55602435,Kirkwood Road Neighborhood Park,1620,N JOHNSON ST,,,,2019-02-14T02:49:05.000Z
+61,108,Lee Community Center,Arlington County Park,2.1438798,Lee Community Center,5722,LEE HWY,2018-11-14T00:00:00.000Z,2018-11-14T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+62,198,South Ives Street Park,Arlington County Park,1.14526329,South Ives Street Park,2612,S IVES ST,,,,2019-02-14T02:49:05.000Z
+63,101,Kirkwood Road Park,Arlington County Park,2.4390585,Kirkwood Road Park,1950,KIRKWOOD RD,,,,2019-02-14T02:49:05.000Z
+64,170,Thrifton Hill Park,Arlington County Park,8.64389716,Thrifton Hill Park,2814,23rd ST N,,,,2019-02-14T02:49:05.000Z
+65,285,20th Street South and South Ives Street Park,Arlington County Park,0.26291371,20th Street South and South Ives Street Park,905,20th ST S,,,,2019-02-14T02:49:05.000Z
+66,159,Cherry Valley Park,Arlington County Park,9.8396885,Cherry Valley Park,1731,N QUINCY ST,2017-12-11T00:00:00.000Z,2017-12-11T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+67,226,Drew Park,Arlington County Park,2.95093982,Drew Park,2310,S KENMORE ST,,,,2019-02-14T02:49:05.000Z
+68,161,Fields Park,Arlington County Park,2.46868553,Fields Park,825,N GEORGE MASON DR,,,,2019-02-14T02:49:05.000Z
+69,105,Alcova Heights Park,Arlington County Park,12.23762167,Alcova Heights Park,901,S GEORGE MASON DR,2018-07-03T00:00:00.000Z,2018-09-04T00:00:00.000Z,,2019-02-14T02:49:05.000Z
+70,242,Nelly Custis Park,Arlington County Park,0.81505793,Nelly Custis Park,701,24th ST S,,,,2019-02-14T02:49:05.000Z
+71,247,Grace Murray Hopper Park,Private Open Space,2.19642704,Grace Murray Hopper Park,,,,,,2019-02-14T02:49:05.000Z
+72,128,Big Walnut Park,Arlington County Park,1.61310604,Big Walnut Park,1915,N HARRISON ST,,,,2019-02-14T02:49:05.000Z
+73,234,Chestnut Hills Park,Arlington County Park,4.67314609,Chestnut Hills Park,2807,N HARRISON ST,,,,2019-02-14T02:49:05.000Z
+74,143,Dark Star Park,Arlington County Park,0.65488933,Dark Star Park,1655,FORT MYER DR,,,,2019-02-14T02:49:05.000Z
+75,216,Thomas Jefferson Community Center,Arlington County Park,18.42521502,Thomas Jefferson Community Center,3501,2nd ST S,2018-01-25T00:00:00.000Z,2018-01-25T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+76,243,Potomac Overlook Regional Park,NVRPA Park,66.65059025,Potomac Overlook Regional Park,,,,,,2019-02-14T02:49:06.000Z
+77,135,James W. Haley Park,Arlington County Park,2.57229704,James W. Haley Park,2400,S MEADE ST,,,,2019-02-14T02:49:06.000Z
+78,283,Nauck Town Square,Arlington County Park,0.7281523,,2400,SHIRLINGTON RD,,,,2019-02-14T02:49:06.000Z
+79,270,Short Bridge Park,Private Open Space,1.82658055,Short Bridge Park,3920,POTOMAC AVE,,,,2019-02-14T02:49:06.000Z
+80,273,Normandy House Plaza,Private Open Space,0.18616599,Private Open Space,,N KENT ST,,,,2019-02-14T02:49:06.000Z
+81,248,Welburn Square,Private Open Space,1.01572683,Welburn Square,,,,,,2019-02-14T02:49:06.000Z
+82,114,Bailey's Branch Park,Arlington County Park,1.61786845,Bailey's Branch Park,990,S COLUMBUS ST,,,,2019-02-14T02:49:06.000Z
+83,229,Four Mile Run Park,Arlington County Park,23.57870817,Four Mile Run Park,3100,S GLEBE RD,,,,2019-02-14T02:49:06.000Z
+84,232,Douglas Park,Arlington County Park,6.79522677,Douglas Park,1718,S QUINCY ST,,,,2019-02-14T02:49:06.000Z
+85,277,District Court Plaza,Private Open Space,0.23559392,Private Open Space,,N COURTHOUSE RD,,,,2019-02-14T02:49:06.000Z
+86,162,Rhodeside Green Park,Arlington County Park,0.4491851,Rhodeside Green Park,1631,N RHODES ST,,,,2019-02-14T02:49:06.000Z
+87,191,Bicentennial Garden,Arlington County Park,0.15456441,Bicentennial Garden,,,,,,2019-02-14T02:49:06.000Z
+88,264,Clarendon-Barton Interim Open Space (Korean Embassy),Private Open Space,0.24221275,Clarendon-Barton Interim Open Space (Korean Embassy),,,,,,2019-02-14T02:49:06.000Z
+89,271,Crystal City Gateway,Private Open Space,0.69546343,Crystal City Gateway,,,,,,2019-02-14T02:49:06.000Z
+90,185,Allie S. Freed Park,Arlington County Park,12.4823578,Allie S. Freed Park,2465,S CULPEPER ST,,,,2019-02-14T02:49:06.000Z
+91,276,Arlington Plaza,Private Open Space,0.54786134,Private Open Space,,N TROY ST,,,,2019-02-14T02:49:06.000Z
+92,186,Barcroft Park,Arlington County Park,62.60918918,Barcroft Park,4200,S FOUR MILE RUN DR,,,,2019-02-14T02:49:06.000Z
+93,181,Herselle Milliken Park,Arlington County Park,0.42412758,Herselle Milliken Park,820,N LINCOLN ST,,,,2019-02-14T02:49:06.000Z
+94,238,Benjamin Banneker Park,Arlington County Park,12.45514057,Benjamin Banneker Park,1680,N SYCAMORE ST,,,,2019-02-14T02:49:06.000Z
+95,112,Henry Clay Park,Arlington County Park,1.52550718,Henry Clay Park,3011,7th ST N,,,,2019-02-14T02:49:06.000Z
+96,203,Mosaic Park,Arlington County Park,1.84319706,Mosaic Park,544,N POLLARD ST,,,,2019-02-14T02:49:06.000Z
+97,278,Verizon Plaza,Private Open Space,0.93071412,Private Open Space,,14th ST N,,,,2019-02-14T02:49:06.000Z
+98,288,Shirlington Dog Park,Arlington County Park,6.25915339,Shirlington Dog Park,2710,S OAKLAND ST,,,,2019-02-14T02:49:06.000Z
+99,212,Charles A. Stewart Park,Arlington County Park,3.98682803,Charles A. Stewart Park,2400,N UNDERWOOD ST,,,,2019-02-14T02:49:06.000Z
+100,115,Nauck Garden,Arlington County Park,0.10274821,Nauck Garden,3501,18th ST S,,,,2019-02-14T02:49:06.000Z
+101,224,Rosslyn Highlands Park,Arlington County Park,0.50239158,Rosslyn Highlands Park,1579,WILSON BLVD,2018-08-30T00:00:00.000Z,2018-08-30T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+102,279,Courthouse Plaza,Private Open Space,1.48058724,Private Open Space,2250,CLARENDON BLVD,2018-02-08T00:00:00.000Z,2018-02-08T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+103,110,Lyon Village Park,Arlington County Park,1.523033,Lyon Village Park,1800,N HIGHLAND ST,,,,2019-02-14T02:49:06.000Z
+104,183,Doctors Run Park,Arlington County Park,5.81658252,Doctors Run Park,1301,S GEORGE MASON DR,2018-01-11T00:00:00.000Z,2018-01-11T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+105,174,Sharp Park,Arlington County Park,1.36784709,Sharp Park,6521,WILLIAMSBURG BLVD,,,,2019-02-14T02:49:06.000Z
+106,240,Glencarlyn Park,Arlington County Park,100.1078666,Glencarlyn Park,301,S HARRISON ST,2018-02-20T00:00:00.000Z,2018-09-14T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+107,109,Clarenford Station Park,Arlington County Park,0.36664785,Clarenford Station Park,1300,N VERMONT ST,,,,2019-02-14T02:49:06.000Z
+108,208,Penrose Park,Arlington County Park,2.01451202,Penrose Park,2200,6th ST S,,,,2019-02-14T02:49:06.000Z
+109,180,Quincy Park,Arlington County Park,12.8367969,Quincy Park,1021,N QUINCY ST,,,,2019-02-14T02:49:06.000Z
+110,199,Virginia Highlands Park,Arlington County Park,19.73593449,Virginia Highlands Park,1600,S HAYES ST,2018-04-26T00:00:00.000Z,2018-04-26T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+111,113,Lubber Run Park,Arlington County Park,30.4921022,Lubber Run Park,300,N PARK DR,,,,2019-02-14T02:49:06.000Z
+112,256,Dominion Hills Park,Private Open Space,1.08830091,Dominion Hills Park,,,,,,2019-02-14T02:49:06.000Z
+113,284,Cherrydale Fire Station Park,,0.09175447,Cherrydale Fire Station Park,4040,21st RD N,,,,2019-02-14T02:49:06.000Z
+114,246,Arlington Hall West Park,Private Open Space,6.76628721,Arlington Hall West Park,290,S TAYLOR ST,2018-07-03T00:00:00.000Z,2018-12-07T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+115,220,21st Street North and North Stafford Street Park,Arlington County Park,0.27405424,21st Street North and North Stafford Street Park,2045,N STAFFORD ST,,,,2019-02-14T02:49:06.000Z
+116,123,Jamestown Park,Arlington County Park,4.72710151,Jamestown Park,3618,N DICKERSON ST,,,,2019-02-14T02:49:06.000Z
+117,261,Clarendon Market Commons Easement,Private Open Space,0.53184265,Clarendon Market Commons Easement,,,,,,2019-02-14T02:49:06.000Z
+118,210,Butler Holmes Park,Arlington County Park,2.13345632,Butler Holmes Park,101,S BARTON ST,,,,2019-02-14T02:49:06.000Z
+119,133,Arlington View Park,Arlington County Park,0.13224711,Arlington View Park,1105,S QUEEN ST,,,,2019-02-14T02:49:06.000Z
+120,275,Bennett Park Plaza,Private Open Space,0.10130563,Private Open Space,,WILSON BLVD,,,,2019-02-14T02:49:06.000Z
+121,235,Triangle Park,Arlington County Park,0.1883073,Triangle Park,,,,,,2019-02-14T02:49:06.000Z
+122,214,Glebe Road Park,Arlington County Park,9.87192787,Glebe Road Park,4211,N OLD GLEBE RD,,,,2019-02-14T02:49:06.000Z
+123,197,Oakcrest Park,Arlington County Park,1.21021856,Oakcrest Park,1020,OAKCREST RD,,,,2019-02-14T02:49:06.000Z
+124,177,Rocky Run Park,Arlington County Park,2.9621562,Rocky Run Park,1109,N BARTON ST,,,,2019-02-14T02:49:06.000Z
+125,121,Fairlington Community Center,Arlington County Park,8.17907021,Fairlington Community Center,3308,S STAFFORD ST,,,,2019-02-14T02:49:06.000Z
+126,211,North Lynn Street and Lee Highway Park,Arlington County Park,0.60963295,North Lynn Street and Lee Highway Park,2105,N LYNN ST,,,,2019-02-14T02:49:06.000Z
+127,117,Marcey Road Park,Arlington County Park,2.84123379,Marcey Road Park,2722,N MARCEY RD,,,,2019-02-14T02:49:06.000Z
+128,137,Clarendon Central Park,Arlington County Park,0.71675369,Clarendon Central Park,3140,WILSON BLVD,,,,2019-02-14T02:49:06.000Z
+129,282,W & OD Railroad Regional Park,NVRPA Park,54.91719141,,,,,,,2019-02-14T02:49:06.000Z
+130,244,Upton Hill Regional Park,NVRPA Park,23.61549687,Upton Hill Regional Park,,,,,,2019-02-14T02:49:06.000Z
+131,231,Bon Air Park,Arlington County Park,21.12950441,Bon Air Park,850,N LEXINGTON ST,2018-05-11T00:00:00.000Z,2018-05-11T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+132,106,Monroe Park,Arlington County Park,0.9917624,Monroe Park,1330,S MONROE ST,,,,2019-02-14T02:49:06.000Z
+133,201,Garfield Street and Route 50 Park,Arlington County Park,0.22944951,Garfield Street and Route 50 Park,6,S GARFIELD ST,,,,2019-02-14T02:49:06.000Z
+134,267,Cheerios Park,Private Open Space,0.87143194,Cheerios Park,,,,,,2019-02-14T02:49:06.000Z
+135,262,Clarendon and North Danville Easement,Private Open Space,0.03249161,Clarendon and North Danville Easement,2751,11th ST N,,,,2019-02-14T02:49:06.000Z
+137,176,John Marshall Greenway,Arlington County Park,2.18967624,John Marshall Greenway,,,,,,2019-02-14T02:49:06.000Z
+138,257,Rosslyn Central Place,Private Open Space,0.61844704,Rosslyn Central Place,,,,,,2019-02-14T02:49:06.000Z
+139,230,Hayes Park,Arlington County Park,2.85230985,Hayes Park,1516,N LINCOLN ST,,,,2019-02-14T02:49:06.000Z
+140,223,Bluemont Park,Arlington County Park,50.6047961,Bluemont Park,601,N MANCHESTER ST,,,,2019-02-14T02:49:06.000Z
+141,130,High View Park,Arlington County Park,2.73489643,High View Park,1945,N DINWIDDIE ST,2017-11-20T00:00:00.000Z,2017-11-20T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+142,124,Arlington Mill Community Center,Arlington County Park,2.10484308,Arlington Mill Community Center,4975,COLUMBIA PIKE,,,,2019-02-14T02:49:06.000Z
+143,178,Hillside Park,Arlington County Park,1.37177167,Hillside Park,1601,N PIERCE ST,,,,2019-02-14T02:49:06.000Z
+144,272,Potomac Yards Center Park,Private Open Space,1.40356091,Private Open Space between S Ball & S Clark St,,S GLEBE RD,,,,2019-02-14T02:49:06.000Z
+145,116,Pimmit Run Fishing Access,Arlington County Park,0.19098148,Pimmit Run Fishing Access,4144,N RICHMOND ST,2018-08-24T00:00:00.000Z,2018-08-24T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+146,249,Clarendon and North Danville Easement,Private Open Space,0.05010568,Clarendon and North Danville Easement,2751,11th ST N,,,,2019-02-14T02:49:06.000Z
+147,219,11th Street North and North Danville Street Park,Arlington County Park,1.0111226,11th Street North and North Danville Street Park,2751,11th ST N,,,,2019-02-14T02:49:06.000Z
+148,172,Rock Spring Park,Arlington County Park,3.77041528,Rock Spring Park,5012,LITTLE FALLS RD,,,,2019-02-14T02:49:06.000Z
+149,213,Tuckahoe Park,Arlington County Park,12.24893501,Tuckahoe Park,2400,N SYCAMORE ST,2018-01-03T00:00:00.000Z,2018-04-12T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+150,250,Freedom Park,Private Open Space,1.6055989,Freedom Park,,,,,,2019-02-14T02:49:06.000Z
+151,169,Dawson Terrace Community Center,Arlington County Park,3.49665802,Dawson Terrace Community Center,2133,N TAFT ST,2018-02-09T00:00:00.000Z,2018-02-09T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+152,125,Upper Pimmit Run Park,Arlington County Park,2.14687564,Upper Pimmit Run Park,3815,N DUMBARTON ST,,,,2019-02-14T02:49:06.000Z
+153,236,Jennie Dean Park,Arlington County Park,16.34783085,Jennie Dean Park,3630,27th ST S,,,,2019-02-14T02:49:06.000Z
+154,158,Wakefield High School Park,Arlington County Park,0.70765954,Wakefield High School Park,4966,14th ST S,,,,2019-02-14T02:49:06.000Z
+155,171,Maywood Park,Arlington County Park,0.25531862,Maywood Park,3210,22nd ST N,,,,2019-02-14T02:49:06.000Z
+156,131,Cleveland Park,Arlington County Park,0.14301049,Cleveland Park,1030,S CLEVELAND ST,,,,2019-02-14T02:49:06.000Z
+157,188,Fort Barnard Park,Arlington County Park,3.59840062,Fort Barnard Park,2101,S POLLARD ST,2018-08-13T00:00:00.000Z,2018-08-13T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+158,167,Fort C.F. Smith Park,Arlington County Park,19.04097071,Fort C.F. Smith Park,2411,24th ST N,2018-08-31T00:00:00.000Z,2018-08-31T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+159,151,Aurora Hills Community Center,Arlington County Park,2.90967976,Aurora Hills Community Center,735,18th ST S,,,,2019-02-14T02:49:06.000Z
+160,173,Greenbrier Park,Arlington County Park,14.51021494,Greenbrier Park,2700,N GREENBRIER ST,,,,2019-02-14T02:49:06.000Z
+161,207,Henry Wright Park,Arlington County Park,0.65889985,Henry Wright Park,4350,4th ST N,,,,2019-02-14T02:49:06.000Z
+162,251,Courthouse Hill Public Access Easement,Private Open Space,0.49199453,Courthouse Hill Public Access Easement,,,,,,2019-02-14T02:49:06.000Z
+163,166,Woodmont Center,Arlington County Park,3.31959116,Woodmont Center,2422,N FILLMORE ST,,,,2019-02-14T02:49:06.000Z
+164,179,Fort Myer Heights Park,Arlington County Park,0.87314522,Fort Myer Heights Park,1400,FORT MYER DR,,,,2019-02-14T02:49:06.000Z
+165,129,Oakland Park,Arlington County Park,0.91517204,Oakland Park,3705,WILSON BLVD,,,,2019-02-14T02:49:06.000Z
+166,136,Troy Park,Arlington County Park,2.97530298,Troy Park,2629,S TROY ST,,,,2019-02-14T02:49:06.000Z
+167,141,Holmberg Park,Arlington County Park,0.90021284,Holmberg Park,3750,N UPLAND ST,,,,2019-02-14T02:49:06.000Z
+168,102,Madison Manor Park,Arlington County Park,13.09518895,Madison Manor Park,6225,12th RD N,,,,2019-02-14T02:49:06.000Z
+169,146,Tyrol Hill Park,Arlington County Park,3.36495267,Tyrol Hill Park,5101,7th RD S,2018-12-07T00:00:00.000Z,2018-12-07T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+170,266,Fraser Park,Private Open Space,2.07520743,Fraser Park,,,,,,2019-02-14T02:49:06.000Z
+171,187,Arlington Heights Park,Arlington County Park,0.28290655,Arlington Heights Park,,,,,,2019-02-14T02:49:06.000Z
+172,147,Oakland Street Park,Arlington County Park,0.07542436,Oakland Street Park,,,,,,2019-02-14T02:49:06.000Z
+173,127,Lacey Woods Park,Arlington County Park,13.85984502,Lacey Woods Park,1200,N GEORGE MASON DR,,,,2019-02-14T02:49:06.000Z
+174,103,East Falls Church Park,Arlington County Park,4.04638382,East Falls Church Park,1730,N ROOSEVELT ST,,,,2019-02-14T02:49:06.000Z
+175,233,Penrose Square,Arlington County Park,0.40773008,Penrose Square,2597,COLUMBIA PIKE,,,,2019-02-14T02:49:06.000Z
+176,227,Stratford Park,Arlington County Park,3.45010798,Stratford Park,4321,OLD DOMINION DR,,,,2019-02-14T02:49:06.000Z
+177,205,Maury Park,Arlington County Park,2.08784422,Maury Park,3550,WILSON BLVD,,,,2019-02-14T02:49:06.000Z
+178,118,Woodstock Park,Arlington County Park,1.26581653,Woodstock Park,2049,N WOODSTOCK ST,2017-12-27T00:00:00.000Z,2017-12-27T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+179,152,Slater Park,Arlington County Park,1.63694366,Slater Park,1837,N CULPEPER ST,,,,2019-02-14T02:49:06.000Z
+180,150,McCoy Park,Arlington County Park,1.71277185,McCoy Park,2121,21st ST N,,,,2019-02-14T02:49:06.000Z
+181,258,Barton Park,Private Open Space,1.95476578,Barton Park,,,2018-04-25T00:00:00.000Z,2018-04-25T00:00:00.000Z,,2019-02-14T02:49:06.000Z
+182,155,Lee Heights Park,Arlington County Park,2.10203857,Lee Heights Park,2430,N TAYLOR ST,,,,2019-02-14T02:49:06.000Z
+183,157,Powhatan Springs Park,Arlington County Park,5.33464645,Powhatan Springs Park,6020,WILSON BLVD,,,,2019-02-14T02:49:06.000Z
+184,215,Fort Ethan Allen Park,Arlington County Park,14.77033192,Fort Ethan Allen Park,3829,N STAFFORD ST,,,,2019-02-14T02:49:06.000Z
+185,140,I-66 Parking Garage,Arlington County Park,2.50824832,I-66 Parking Garage,,,,,,2019-02-14T02:49:06.000Z

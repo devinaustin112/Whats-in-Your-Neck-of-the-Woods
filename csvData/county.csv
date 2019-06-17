@@ -1,0 +1,81 @@
+county_id,station_id,county_name,lat,lon
+32,1,Accomack County,37.7063,-75.8069
+70,2,Albemarle County,38.0567,-78.6115
+111,3,Alexandria City,38.8048,-77.0469
+8,4,Amherst County,37.5588,-79.1097
+110,5,Arlington County,38.8816,-77.091
+29,6,Augusta County,38.2005,-79.2451
+93,7,Bedford County,37.2539,-79.4704
+1,8,Montgomery County,37.207,-80.4104
+35,9,Botetourt County,37.5775,-79.7848
+74,10,Bristol City,36.5951,-82.1888
+112,11,Campbell County,37.221,-79.1097
+52,12,Caroline County,38.0446,-77.2865
+27,13,Carroll County,36.6779,-80.7214
+100,14,Charlottesville City,38.0293,-78.4767
+123,15,Chesapeake City,36.7682,-76.2875
+51,16,Chesterfield County,37.3673,-77.6078
+1,17,Montgomery County,37.207,-80.4104
+53,18,Colonial Heights City,37.244,-77.4103
+48,19,Culpeper County,38.4918,-77.9739
+48,20,Culpeper County,38.4918,-77.9739
+103,21,Danville City,36.586,-79.395
+33,22,Dinwiddie County,37.0769,-77.6536
+59,23,Fairfax City,38.8462,-77.3064
+58,24,Fairfax County,38.9085,-77.2405
+101,25,Falls Church City,38.8823,-77.1711
+91,26,Fauquier County,38.7209,-77.791
+41,27,Fluvanna County,37.8533,-78.2476
+24,28,Franklin County,36.9459,-79.8297
+89,29,Frederick County,39.2096,-78.2601
+99,30,Fredericksburg City,38.3032,-77.4605
+92,31,Warren County,38.9332,-78.2476
+16,32,Gloucester County,37.4128,-76.5026
+116,33,Halifax County,36.6945,-78.9288
+126,34,Hampton City,37.0299,-76.3452
+86,35,Hanover County,37.7772,-77.5161
+60,36,Harrisonburg City,38.4496,-78.8689
+23,37,Henrico County,37.5059,-77.3324
+3,38,Henry County,36.6589,-79.964
+58,39,Fairfax County,38.9085,-77.2405
+30,40,Hopewell City,37.3043,-77.2872
+107,41,James City County,37.3002,-76.8029
+43,42,King George County,38.2373,-77.1485
+61,43,Loudoun County,39.0768,-77.6536
+61,44,Loudoun County,39.0768,-77.6536
+114,45,Louisa County,37.9926,-77.9739
+62,46,Lynchburg City,37.4138,-79.1422
+96,47,Manassas City,38.7509,-77.4753
+98,48,Manassas Park City,38.784,-77.4697
+39,49,Martinsville City,36.6915,-79.8725
+1,50,Montgomery County,37.207,-80.4104
+128,51,Newport News City,37.0871,-76.473
+124,52,Norfolk City,36.8508,-76.2859
+87,53,Orange County,38.2427,-77.9739
+64,54,Petersburg City,37.2279,-77.4019
+26,55,Pittsylvania County,36.744,-79.4704
+127,56,Poquoson City,37.1224,-76.3458
+125,57,Portsmouth City,36.8354,-76.2983
+17,58,Powhatan County,37.5643,-77.8825
+131,59,Prince George County,37.1593,-77.2405
+97,60,Prince William County,38.7839,-77.6078
+85,61,Radford City,37.1318,-80.5764
+63,62,Richmond City,37.5407,-77.436
+133,63,Roanoke City,37.271,-79.9414
+73,64,Roanoke County,37.2467,-80.1205
+71,65,Rockingham County,38.5826,-78.8836
+69,66,Salem City,37.2935,-80.0548
+31,67,Shenandoah County,38.8414,-78.5661
+50,68,Spotsylvania County,38.2042,-77.6078
+94,69,Stafford County,38.4335,-77.4243
+56,70,Staunton City,38.1496,-79.0717
+121,71,Suffolk City,36.7282,-76.5836
+106,72,Tazewell County,37.1247,-81.5596
+58,73,Fairfax County,38.9085,-77.2405
+72,74,Virginia Beach City,36.8529,-75.978
+79,75,Washington County,36.7678,-81.9535
+57,76,Waynesboro City,38.0685,-78.8895
+65,77,Williamsburg City,37.2707,-76.7075
+95,78,Winchester City,39.1857,-78.1633
+83,79,Wise County,37.0241,-82.6051
+47,80,York County,37.2104,-76.3869

@@ -1,0 +1,134 @@
+OBJECTID, STCOFIPS, GNIS, NAME, NAMELSAD, GSOURCE, LADOPT, AREASQMI, LASTUPDATE, JURISTYPE, Shapearea, Shapelen
+1, 51121, 1674630, Montgomery, Montgomery County, Local Government source, YES, 389.2668231, 2014-02-04T00:00:00.000Z, County, 1591074243, 238285.9107
+2, 51167, 1497573, Russell, Russell County, VGIN & Local Government source, NO, 476.4902252, 2014-09-24T00:00:00.000Z, County, 1935060135, 250387.9579
+3, 51089, 1502770, Henry, Henry County, U.S. Census Bureau (TIGER) source, NO, 384.4844063, 2016-07-14T00:00:00.000Z, County, 1550955681, 227440.4027
+4, 51097, 1480136, King and Queen, King and Queen County, U.S. Census Bureau (TIGER) source, NO, 326.2484565, 2017-06-23T00:00:00.000Z, County, 1353237822, 298730.0973
+5, 51063, 1494354, Floyd, Floyd County, VGIN & Local Government source, NO, 381.7805861, 2014-02-04T00:00:00.000Z, County, 1550339480, 234984.0446
+6, 51119, 1480147, Middlesex, Middlesex County, U.S. Census Bureau (TIGER) source, NO, 210.6892719, , County, 871636818.6, 197916.3838
+7, 51157, 1673976, Rappahannock, Rappahannock County, VGIN & Local Government source, NO, 267.138757, 2014-12-03T00:00:00.000Z, County, 1137643618, 172016.185
+8, 51009, 1480095, Amherst, Amherst County, VGIN & Local Government source, NO, 478.7669416, 2014-11-17T00:00:00.000Z, County, 1979750413, 237128.9265
+9, 51580, 1789069, Covington, Covington City, U.S. Census Bureau (TIGER) source, NO, 5.66776619, 2014-06-16T11:06:34.000Z, City, 23547348.67, 28083.99619
+10, 51057, 1480118, Essex, Essex County, VGIN & Local Government source, YES, 285.8596065, 2014-08-29T00:00:00.000Z, County, 1192821454, 226343.2958
+11, 51027, 1497431, Buchanan, Buchanan County, VGIN & Local Government source, NO, 503.9000717, 2014-09-24T00:00:00.000Z, County, 2064746048, 280343.7256
+12, 51005, 1492459, Alleghany, Alleghany County, VGIN & Local Government source, NO, 449.5447691, 2014-09-15T00:00:00.000Z, County, 1868148174, 261231.1924
+13, 51133, 1480152, Northumberland, Northumberland County, VGIN & Local Government source, YES, 286.8267242, 2014-09-02T00:00:00.000Z, County, 1194135401, 178452.6581
+14, 51045, 1673664, Craig, Craig County, VGIN & Local Government source, NO, 329.0826399, 2014-09-15T00:00:00.000Z, County, 1356270084, 188611.4958
+15, 51029, 1501502, Buckingham, Buckingham County, VGIN & Local Government source, NO, 583.2494608, 2015-11-30T00:00:00.000Z, County, 2409672520, 245684.838
+16, 51073, 1480126, Gloucester, Gloucester County, U.S. Census Bureau (TIGER) source, NO, 287.9061714, 2017-06-23T00:00:00.000Z, County, 1183993880, 180590.4684
+17, 51145, 1674225, Powhatan, Powhatan County, VGIN & Local Government source, NO, 262.219311, 2017-06-23T00:00:00.000Z, County, 1082702729, 184622.8176
+18, 51079, 1480129, Greene, Greene County, Local Government source, YES, 156.5120126, 2015-11-30T00:00:00.000Z, County, 659496675.7, 145347.8243
+19, 51141, 1497999, Patrick, Patrick County, U.S. Census Bureau (TIGER) source, NO, 485.9963424, , County, 1960207547, 233184.089
+20, 51101, 1480138, King William, King William County, VGIN & Local Government source, YES, 285.4939601, 2014-12-10T00:00:00.000Z, County, 1183803817, 321924.0735
+21, 51111, 1492239, Lunenburg, Lunenburg County, U.S. Census Bureau (TIGER) source, NO, 432.4766902, 2017-06-23T00:00:00.000Z, County, 1757180994, 211558.6458
+22, 51037, 1492442, Charlotte, Charlotte County, U.S. Census Bureau (TIGER) source, NO, 476.7980474, 2017-06-23T00:00:00.000Z, County, 1940344014, 247762.628
+23, 51087, 1480133, Henrico, Henrico County, VGIN & Local Government source, NO, 243.5732246, 2017-06-23T00:00:00.000Z, County, 1005404394, 265435.9529
+24, 51067, 1494434, Franklin, Franklin County, VGIN & Local Government source, NO, 711.6269185, 2016-07-14T00:00:00.000Z, County, 2894467132, 295568.2585
+25, 51077, 1501196, Grayson, Grayson County, VGIN & Local Government source, NO, 445.6179972, 2014-02-03T00:00:00.000Z, County, 1796298570, 243790.3198
+26, 51143, 1480157, Pittsylvania, Pittsylvania County, Local Government source, YES, 978.6724822, 2016-07-14T00:00:00.000Z, County, 3962657504, 372413.0398
+27, 51035, 1480108, Carroll, Carroll County, VGIN & Local Government source, NO, 477.7905692, 2014-02-04T00:00:00.000Z, County, 1929851552, 218942.5418
+28, 51049, 1494109, Cumberland, Cumberland County, VGIN & Local Government source, NO, 299.6956195, 2015-11-30T00:00:00.000Z, County, 1236172026, 187863.9985
+29, 51015, 1480098, Augusta, Augusta County, VGIN & Local Government source, NO, 970.2880771, 2014-08-01T00:00:00.000Z, County, 4073692553, 390662.8535
+30, 51670, 1498428, Hopewell, Hopewell City, U.S. Census Bureau (TIGER) source, NO, 11.52794763, 2018-01-05T00:00:00.000Z, City, 47268803.65, 38401.87084
+31, 51171, 1673918, Shenandoah, Shenandoah County, VGIN & Local Government source, NO, 511.6462905, 2014-12-03T00:00:00.000Z, County, 2189329980, 263409.3927
+32, 51001, 1480091, Accomack, Accomack County, U.S. Census Bureau (TIGER) source, NO, 1195.366291, 2014-08-20T00:00:00.000Z, County, 4964341071, 366537.731
+33, 51053, 1690739, Dinwiddie, Dinwiddie County, VGIN & Local Government source, NO, 507.3231328, 2017-06-23T00:00:00.000Z, County, 2065804843, 219890.2782
+34, 51007, 1497770, Amelia, Amelia County, U.S. Census Bureau (TIGER) source, NO, 358.4437078, 2017-06-23T00:00:00.000Z, County, 1471482719, 223318.9157
+35, 51023, 1674418, Botetourt, Botetourt County, Local Government source, YES, 545.7833433, 2014-09-15T00:00:00.000Z, County, 2253962496, 239372.5255
+36, 51193, 1480179, Westmoreland, Westmoreland County, U.S. Census Bureau (TIGER) source, NO, 255.5715017, , County, 1071503613, 200940.9679
+37, 51125, 1500936, Nelson, Nelson County, VGIN & Local Government source, NO, 474.0317781, 2014-01-28T00:00:00.000Z, County, 1969888641, 271123.6429
+38, 51135, 1493928, Nottoway, Nottoway County, U.S. Census Bureau (TIGER) source, NO, 316.0174591, 2017-06-23T00:00:00.000Z, County, 1290623930, 179960.8409
+39, 51690, 1789072, Martinsville, Martinsville City, U.S. Census Bureau (TIGER) source, NO, 11.01083437, 2014-06-16T11:08:51.000Z, City, 44415953.55, 36796.56282
+40, 51011, 1497238, Appomattox, Appomattox County, U.S. Census Bureau (TIGER) source, NO, 335.4054892, 2016-07-14T00:00:00.000Z, County, 1378255638, 171607.4065
+41, 51065, 1494061, Fluvanna, Fluvanna County, VGIN & Local Government source, NO, 291.2040016, 2015-11-30T00:00:00.000Z, County, 1211893109, 139687.1054
+42, 51115, 1480145, Mathews, Mathews County, U.S. Census Bureau (TIGER) source, NO, 251.892187, 2017-01-25T00:00:00.000Z, County, 1036350183, 137483.4314
+43, 51099, 1480137, King George, King George County, Local Government source, NO, 187.6361888, 2014-08-31T00:00:00.000Z, County, 790128112.6, 162520.9065
+44, 51147, 1492359, Prince Edward, Prince Edward County, U.S. Census Bureau (TIGER) source, NO, 353.7826803, 2017-06-23T00:00:00.000Z, County, 1447984242, 213462.8979
+45, 51640, 1498426, Galax, Galax City, U.S. Census Bureau (TIGER) source, NO, 8.28202473, 2014-06-16T11:07:40.000Z, City, 33393558.4, 40345.97536
+46, 51021, 1494613, Bland, Bland County, VGIN & Local Government source, NO, 358.6085592, 2014-02-04T00:00:00.000Z, County, 1464175806, 221367.9128
+47, 51199, 1480182, York, York County, VGIN & Local Government source, NO, 214.7421588, 2017-01-25T00:00:00.000Z, County, 879757331.1, 220321.5776
+48, 51047, 1497831, Culpeper, Culpeper County, VGIN & Local Government source, NO, 382.4075868, 2014-12-03T00:00:00.000Z, County, 1619678357, 264418.2435
+49, 51131, 1480151, Northampton, Northampton County, U.S. Census Bureau (TIGER) source, NO, 715.9696656, 2018-09-18T00:00:00.000Z, County, 2937214650, 245445.5812
+50, 51177, 1480172, Spotsylvania, Spotsylvania County, VGIN & Local Government source, NO, 414.4882688, 2015-11-30T00:00:00.000Z, County, 1741164550, 221513.0511
+51, 51041, 1480111, Chesterfield, Chesterfield County, VGIN & Local Government source, NO, 438.1908855, 2018-01-05T00:00:00.000Z, County, 1800925509, 281599.3842
+52, 51033, 1480107, Caroline, Caroline County, VGIN & Local Government source, NO, 537.0653871, 2015-11-30T00:00:00.000Z, County, 2246391256, 293934.1455
+53, 51570, 1498420, Colonial Heights, Colonial Heights City, VGIN & Local Government source, NO, 7.93550999, 2017-01-25T00:00:00.000Z, City, 32514597.39, 36190.57151
+54, 51103, 1480139, Lancaster, Lancaster County, U.S. Census Bureau (TIGER) source, NO, 231.3224162, 2014-09-02T00:00:00.000Z, County, 959059975.9, 169878.5686
+55, 51159, 1480164, Richmond, Richmond County, U.S. Census Bureau (TIGER) source, NO, 216.262514, , County, 902359914.7, 165018.4766
+56, 51790, 1789075, Staunton, Staunton City, Local Government source, YES, 19.96774334, 2014-06-16T11:10:15.000Z, City, 83821217.83, 39079.34644
+57, 51820, 1498443, Waynesboro, Waynesboro City, Local Government source, YES, 15.11098681, 2014-06-16T11:10:36.000Z, City, 63274790.26, 41256.49282
+58, 51059, 1480119, Fairfax, Fairfax County, Local Government source, YES, 406.6223675, 2014-12-01T00:00:00.000Z, County, 1738795573, 269267.567
+59, 51600, 1789070, Fairfax, Fairfax City, Local Government source, YES, 6.2761476, 2014-12-01T00:00:00.000Z, City, 26851644.28, 29292.52691
+60, 51660, 1498563, Harrisonburg, Harrisonburg City, Local Government source, YES, 17.38181731, 2014-06-16T11:08:07.000Z, City, 73519968.56, 46962.06641
+61, 51107, 1480141, Loudoun, Loudoun County, Local Government source, YES, 521.099972, 2014-04-01T00:00:00.000Z, County, 2244112106, 240803.4427
+62, 51680, 1498429, Lynchburg, Lynchburg City, Local Government source, YES, 49.46390022, 2014-11-17T00:00:00.000Z, City, 203411605.2, 82820.19088
+63, 51760, 1789073, Richmond, Richmond City, Local Government source, YES, 62.38047757, 2017-06-23T00:00:00.000Z, City, 257425095.6, 106892.3821
+64, 51730, 1498435, Petersburg, Petersburg City, Local Government source, YES, 22.91137513, 2017-06-23T00:00:00.000Z, City, 93722633.91, 50080.58223
+65, 51830, 1789076, Williamsburg, Williamsburg City, Local Government source, YES, 9.03276855, 2017-01-25T00:00:00.000Z, City, 37014698.39, 41614.33728
+66, 51530, 1498417, Buena Vista, Buena Vista City, Local Government source, YES, 6.54116434, 2014-06-16T11:05:39.000Z, City, 27141598.69, 35416.15459
+67, 51678, 1789071, Lexington, Lexington City, Local Government source, YES, 2.49761422, 2014-06-16T11:08:27.000Z, City, 10377688.94, 17446.32482
+68, 51163, 1480166, Rockbridge, Rockbridge County, Local Government source, YES, 599.7225319, 2014-04-04T00:00:00.000Z, County, 2494041808, 294993.2276
+69, 51775, 1789074, Salem, Salem City, Local Government source, YES, 14.49338015, 2017-08-15T00:00:00.000Z, City, 59418445.07, 45701.52857
+70, 51003, 1675170, Albemarle, Albemarle County, Local Government source, YES, 725.6343345, 2015-11-30T00:00:00.000Z, County, 3034830676, 293577.619
+71, 51165, 1488970, Rockingham, Rockingham County, Local Government source, YES, 853.3678956, 2014-12-03T00:00:00.000Z, County, 3616999921, 335229.6673
+72, 51810, 1498559, Virginia Beach, Virginia Beach City, Local Government source, YES, 431.7753797, 2017-01-25T00:00:00.000Z, City, 1650009291, 212793.8001
+73, 51161, 1480165, Roanoke, Roanoke County, Local Government source, YES, 251.2507312, 2017-08-15T00:00:00.000Z, County, 1029581192, 277005.6468
+74, 51520, 1498416, Bristol, Bristol City, Local Government source, YES, 13.08219055, 2014-06-16T11:05:30.000Z, City, 52681572.97, 62318.87038
+75, 51071, 1494551, Giles, Giles County, Local Government source, YES, 361.4806203, 2014-02-04T00:00:00.000Z, County, 1483079309, 200512.0417
+76, 51720, 1498434, Norton, Norton City, Local Government source, YES, 7.51746388, 2014-06-16T11:09:14.000Z, City, 30526871.5, 38752.11735
+77, 51105, 1496538, Lee, Lee County, Local Government source, YES, 437.4904404, 2014-02-03T00:00:00.000Z, County, 1765838948, 259394.5772
+78, 51169, 1498172, Scott, Scott County, Local Government source, YES, 539.1657492, 2014-02-03T00:00:00.000Z, County, 2176774041, 216562.4126
+79, 51191, 1498359, Washington, Washington County, Local Government source, YES, 566.4721853, 2014-08-20T00:00:00.000Z, County, 2287614014, 264656.5964
+80, 51173, 1500545, Smyth, Smyth County, Local Government source, YES, 452.7675534, 2014-08-20T00:00:00.000Z, County, 1834281242, 204472.2779
+81, 51051, 1497376, Dickenson, Dickenson County, Local Government source, YES, 333.5124987, 2014-02-03T00:00:00.000Z, County, 1361412081, 170876.152
+82, 51197, 1501379, Wythe, Wythe County, Local Government source, YES, 464.7658759, 2014-02-04T00:00:00.000Z, County, 1886594241, 194550.5414
+83, 51195, 1496656, Wise, Wise County, Local Government source, YES, 405.4370635, 2014-04-17T00:00:00.000Z, County, 1648328289, 276982.2797
+84, 51155, 1501465, Pulaski, Pulaski County, Local Government source, YES, 329.4254207, 2014-02-04T00:00:00.000Z, County, 1342481151, 191334.1225
+85, 51750, 1498438, Radford, Radford City, VGIN & Local Government source, NO, 9.97845081, 2014-06-16T11:09:41.000Z, City, 40729233.91, 41663.18001
+86, 51085, 1480132, Hanover, Hanover County, Local Government source, YES, 472.8896488, 2015-11-30T00:00:00.000Z, County, 1963689659, 326338.7193
+87, 51137, 1494761, Orange, Orange County, Local Government source, YES, 343.4594341, 2015-11-30T00:00:00.000Z, County, 1445219817, 232866.2245
+88, 51139, 1500440, Page, Page County, Local Government source, YES, 313.1185596, 2014-12-03T00:00:00.000Z, County, 1331064137, 178036.1265
+89, 51069, 1480124, Frederick, Frederick County, Local Government source, YES, 415.3677696, 2014-04-07T00:00:00.000Z, County, 1794414872, 293965.7386
+90, 51043, 1690562, Clarke, Clarke County, Local Government source, YES, 178.1231349, 2014-04-04T00:00:00.000Z, County, 767541544.7, 130648.4741
+91, 51061, 1480120, Fauquier, Fauquier County, Local Government source, YES, 651.5528073, 2014-12-03T00:00:00.000Z, County, 2778834772, 293169.473
+92, 51187, 1674058, Warren, Warren County, Local Government source, YES, 217.7228003, 2014-04-04T00:00:00.000Z, County, 932923432.7, 160201.4108
+93, 51019, 1674818, Bedford, Bedford County, Local Government source, YES, 776.1829958, 2016-07-14T00:00:00.000Z, County, 3184599359, 338853.8158
+94, 51179, 1480173, Stafford, Stafford County, Local Government source, YES, 279.3990692, 2015-11-30T00:00:00.000Z, County, 1181279482, 178542.9934
+95, 51840, 1789077, Winchester, Winchester City, Local Government source, YES, 9.21207541, 2014-06-16T11:10:48.000Z, City, 39762515.41, 30936.53099
+96, 51683, 1498430, Manassas, Manassas City, Local Government source, YES, 9.94318599, 2014-12-01T00:00:00.000Z, City, 42417624.01, 43399.5632
+97, 51153, 1480161, Prince William, Prince William County, Local Government source, YES, 347.5413691, 2014-12-01T00:00:00.000Z, County, 1480734939, 288364.2023
+98, 51685, 1498431, Manassas Park, Manassas Park City, VGIN & Local Government source, NO, 2.52008803, 2014-12-01T00:00:00.000Z, City, 10757776.71, 22246.61238
+99, 51630, 1498425, Fredericksburg, Fredericksburg City, Local Government source, YES, 10.65741477, 2015-11-30T00:00:00.000Z, City, 44909340.19, 35585.48692
+100, 51540, 1789068, Charlottesville, Charlottesville City, Local Government source, YES, 10.24664608, 2014-06-16T11:05:55.000Z, City, 42871208.28, 48197.6617
+101, 51610, 1498423, Falls Church, Falls Church City, Local Government source, YES, 2.04255097, 2014-12-01T00:00:00.000Z, City, 8746392.766, 15878.23555
+102, 51075, 1674271, Goochland, Goochland County, Local Government source, YES, 288.9994475, 2015-11-30T00:00:00.000Z, County, 1198827521, 201674.7431
+103, 51590, 1498421, Danville, Danville City, Local Government source, YES, 43.72647032, 2016-07-14T00:00:00.000Z, City, 175917720.5, 90021.92614
+104, 51091, 1673774, Highland, Highland County, Local Government source, YES, 415.6642555, 2014-08-01T00:00:00.000Z, County, 1754587606, 202817.5754
+105, 51017, 1673638, Bath, Bath County, Local Government source, YES, 534.3794035, 2014-08-01T00:00:00.000Z, County, 2237098697, 229620.8627
+106, 51185, 1497748, Tazewell, Tazewell County, Local Government source, YES, 519.7662122, 2014-09-24T00:00:00.000Z, County, 2121656321, 269044.3504
+107, 51095, 1480135, James City, James City County, VGIN & Local Government source, YES, 178.7194596, 2017-06-23T00:00:00.000Z, County, 734509543.6, 213610.3125
+108, 51127, 1480150, New Kent, New Kent County, VGIN & Local Government source, NO, 223.8194701, 2017-06-23T00:00:00.000Z, County, 923026461.1, 238522.3639
+109, 51036, 1480109, Charles City, Charles City County, U.S. Census Bureau (TIGER) source, NO, 204.4060375, 2017-06-23T00:00:00.000Z, County, 840066838, 195305.8923
+110, 51013, 1480097, Arlington, Arlington County, Local Government source, YES, 26.06444404, 2014-12-01T00:00:00.000Z, County, 111591536.4, 52337.7961
+111, 51510, 1498415, Alexandria, Alexandria City, Local Government source, YES, 15.35004549, 2014-12-01T00:00:00.000Z, City, 65610602.11, 44065.6625
+112, 51031, 1674917, Campbell, Campbell County, Local Government source, YES, 507.0522059, 2016-07-14T00:00:00.000Z, County, 2074237064, 262176.0988
+113, 51113, 1494590, Madison, Madison County, Local Government source, YES, 321.7309985, 2015-11-30T00:00:00.000Z, County, 1359988817, 198677.1531
+114, 51109, 1494707, Louisa, Louisa County, VGIN & Local Government source, YES, 510.4101247, 2015-11-30T00:00:00.000Z, County, 2132080560, 227436.9985
+115, 51117, 1500747, Mecklenburg, Mecklenburg County, Local Government source, YES, 679.2565416, 2017-06-23T00:00:00.000Z, County, 2739849905, 285131.146
+116, 51083, 1496705, Halifax, Halifax County, Local Government source, YES, 829.7965364, 2016-07-14T00:00:00.000Z, County, 3354717752, 313558.3411
+117, 51175, 1480171, Southampton, Southampton County, Local Government source, YES, 602.4723738, 2017-06-23T00:00:00.000Z, County, 2432895082, 303880.4306
+118, 51620, 1498424, Franklin, Franklin City, Local Government source, YES, 8.35082438, 2017-06-23T00:00:00.000Z, City, 34046770.21, 37054.26632
+119, 51595, 1498422, Emporia, Emporia City, Local Government source, YES, 6.96966543, 2017-06-23T00:00:00.000Z, City, 27032001.84, 29564.30791
+120, 51181, 1480174, Surry, Surry County, Local Government source, YES, 310.2830915, 2017-06-23T00:00:00.000Z, County, 1262795107, 187663.9524
+121, 51800, 1498560, Suffolk, Suffolk City, Local Government source, YES, 429.1905474, 2017-06-23T00:00:00.000Z, City, 1731152483, 196398.7584
+122, 51093, 1702378, Isle of Wight, Isle of Wight County, VGIN & Local Government source, YES, 362.8559907, 2017-06-23T00:00:00.000Z, County, 1473372140, 237207.608
+123, 51550, 1498558, Chesapeake, Chesapeake City, Local Government source, YES, 351.2209173, 2017-01-25T00:00:00.000Z, City, 1417900769, 181710.8335
+124, 51710, 1498557, Norfolk, Norfolk City, Local Government source, YES, 96.41848117, 2017-01-25T00:00:00.000Z, City, 268605639.6, 76450.31581
+125, 51740, 1498556, Portsmouth, Portsmouth City, VGIN & Local Government source, YES, 46.74569635, 2017-01-25T00:00:00.000Z, City, 189619399.9, 70906.98271
+126, 51650, 1498554, Hampton, Hampton City, Local Government source, YES, 202.4159671, 2018-09-18T00:00:00.000Z, City, 824275943.4, 153847.1217
+127, 51735, 1498436, Poquoson, Poquoson City, U.S. Census Bureau (TIGER) source, NO, 78.47179685, 2017-01-25T00:00:00.000Z, City, 269363839.5, 83881.16574
+128, 51700, 1498555, Newport News, Newport News City, VGIN & Local Government source, YES, 119.7302055, 2017-01-25T00:00:00.000Z, City, 489168868.8, 121401.8745
+129, 51081, 1501122, Greensville, Greensville County, Local Government source, YES, 296.8896548, 2017-06-23T00:00:00.000Z, County, 1196655686, 265730.8463
+130, 51183, 1690257, Sussex, Sussex County, Local Government source, YES, 492.8594681, 2017-06-23T00:00:00.000Z, County, 2004921392, 226139.7376
+131, 51149, 1480160, Prince George, Prince George County, VGIN & Local Government source, NO, 281.186647, 2018-01-05T00:00:00.000Z, County, 1149454123, 206900.4193
+132, 51025, 1493961, Brunswick, Brunswick County, Local Government source, YES, 569.507878, 2017-06-23T00:00:00.000Z, County, 2303043079, 207553.5999
+133, 51770, 1498439, Roanoke, Roanoke City, Local Government source, YES, 42.89917829, 2017-08-15T00:00:00.000Z, City, 175836748.5, 87043.91343

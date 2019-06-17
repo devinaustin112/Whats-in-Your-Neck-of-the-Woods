@@ -1,0 +1,136 @@
+.header {
+    text-align: center;
+    font-family: Georgia, serif;
+    padding: 45px;
+    color: white;
+    background-color: cornflowerblue;
+    margin-top: 1em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Georgia, serif;
+}
+
+.instruct {
+    font-family: Georgia, serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.instruction {
+    font-family: Georgia, serif;
+    margin-top: 2em;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.dropdown {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+}
+
+.chart {
+    font-family: Georgia, serif;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:75%;
+    margin-top: 10px;
+}
+
+table {
+    background: white
+}
+
+body {
+    background: gainsboro
+}
+
+.user_input {
+    font-family: Georgia, serif;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:50%;
+    margin-top: 1em;
+}
+
+.map {
+    margin: 0 auto;
+    width: 600px; 
+    height:400px
+}
+
+p.all{
+    text-indent: 10px;
+}
+span.indent1 {
+    text-indent: 50px;
+}
+span.indent2 {
+    text-indent: 100px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 8px;
+}
+
+.slidecontainer {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+.advanced_button {
+    background: cornflowerblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+
+}
+
+.advanced_form {
+    margin-left: 50px; 
+    margin-bottom: 10px; 
+    font-family: Georgia, serif;
+}
